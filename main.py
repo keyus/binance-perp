@@ -6,9 +6,9 @@ def main():
     #     exchange_info = json.load(f)
     
     # utils.download_exchange_info()
-    # utils.tiker()
+    utils.tiker()
     # utils.klines()
-    utils.read_klines()
+    # utils.read_klines()
 
 if __name__ == "__main__":
     main()

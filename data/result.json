@@ -1,1 +1,426 @@
-[]
+[
+    {
+        "symbol": "LTCUSD_PERP",
+        "current_price": "91.06",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 62.99,
+        "high_price": 130.9
+    },
+    {
+        "symbol": "LTCUSD_PERP",
+        "current_price": "91.06",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 62.99,
+        "high_price": 130.9
+    },
+    {
+        "symbol": "ETHUSD_PERP",
+        "current_price": "2710.86",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1382.09,
+        "high_price": 2790.0
+    },
+    {
+        "symbol": "ETHUSD_PERP",
+        "current_price": "2710.86",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1382.09,
+        "high_price": 2790.0
+    },
+    {
+        "symbol": "OPUSD_PERP",
+        "current_price": "0.663300",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5445,
+        "high_price": 1.1791
+    },
+    {
+        "symbol": "OPUSD_PERP",
+        "current_price": "0.663300",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5445,
+        "high_price": 1.1791
+    },
+    {
+        "symbol": "LINKUSD_PERP",
+        "current_price": "14.534",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 10.07,
+        "high_price": 17.973
+    },
+    {
+        "symbol": "ALGOUSD_PERP",
+        "current_price": "0.2015",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1456,
+        "high_price": 0.3068
+    },
+    {
+        "symbol": "ALGOUSD_PERP",
+        "current_price": "0.2015",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1456,
+        "high_price": 0.3068
+    },
+    {
+        "symbol": "CHZUSD_PERP",
+        "current_price": "0.039800",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0343,
+        "high_price": 0.0543
+    },
+    {
+        "symbol": "AAVEUSD_PERP",
+        "current_price": "287.620",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 113.72,
+        "high_price": 291.98
+    },
+    {
+        "symbol": "AAVEUSD_PERP",
+        "current_price": "287.620",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 113.72,
+        "high_price": 291.98
+    },
+    {
+        "symbol": "ETCUSD_PERP",
+        "current_price": "18.013",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 12.647,
+        "high_price": 32.5
+    },
+    {
+        "symbol": "ETCUSD_PERP",
+        "current_price": "18.013",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 12.647,
+        "high_price": 32.5
+    },
+    {
+        "symbol": "XLMUSD_PERP",
+        "current_price": "0.27545",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.19964,
+        "high_price": 0.37511
+    },
+    {
+        "symbol": "GMTUSD_PERP",
+        "current_price": "0.05410",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0361,
+        "high_price": 0.071
+    },
+    {
+        "symbol": "SANDUSD_PERP",
+        "current_price": "0.2941",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.2128,
+        "high_price": 0.3899
+    },
+    {
+        "symbol": "NEARUSD_PERP",
+        "current_price": "2.554",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1.816,
+        "high_price": 3.561
+    },
+    {
+        "symbol": "DOGEUSD_PERP",
+        "current_price": "0.195460",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1294,
+        "high_price": 0.2597
+    },
+    {
+        "symbol": "DOGEUSD_PERP",
+        "current_price": "0.195460",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1294,
+        "high_price": 0.2597
+    },
+    {
+        "symbol": "ADAUSD_PERP",
+        "current_price": "0.71250",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5099,
+        "high_price": 1.1739
+    },
+    {
+        "symbol": "ADAUSD_PERP",
+        "current_price": "0.71250",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5099,
+        "high_price": 1.1739
+    },
+    {
+        "symbol": "SUIUSD_PERP",
+        "current_price": "3.428200",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1.7133,
+        "high_price": 4.298
+    },
+    {
+        "symbol": "SUIUSD_PERP",
+        "current_price": "3.428200",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1.7133,
+        "high_price": 4.298
+    },
+    {
+        "symbol": "APTUSD_PERP",
+        "current_price": "4.985000",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 3.883,
+        "high_price": 6.81
+    },
+    {
+        "symbol": "MANAUSD_PERP",
+        "current_price": "0.2955",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1897,
+        "high_price": 0.4043
+    },
+    {
+        "symbol": "MANAUSD_PERP",
+        "current_price": "0.2955",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1897,
+        "high_price": 0.4043
+    },
+    {
+        "symbol": "BNBUSD_PERP",
+        "current_price": "666.350",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 506.38,
+        "high_price": 698.16
+    },
+    {
+        "symbol": "SOLUSD_PERP",
+        "current_price": "160.680",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 94.98,
+        "high_price": 187.66
+    },
+    {
+        "symbol": "DOTUSD_PERP",
+        "current_price": "4.197",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 3.241,
+        "high_price": 5.395
+    },
+    {
+        "symbol": "DOGSUSD_PERP",
+        "current_price": "0.00016250",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0001004,
+        "high_price": 0.0002529
+    },
+    {
+        "symbol": "DOGSUSD_PERP",
+        "current_price": "0.00016250",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0001004,
+        "high_price": 0.0002529
+    },
+    {
+        "symbol": "UNIUSD_PERP",
+        "current_price": "6.920",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 4.546,
+        "high_price": 8.323
+    },
+    {
+        "symbol": "ENSUSD_PERP",
+        "current_price": "22.360000",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 11.871,
+        "high_price": 25.288
+    },
+    {
+        "symbol": "ENSUSD_PERP",
+        "current_price": "22.360000",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 11.871,
+        "high_price": 25.288
+    },
+    {
+        "symbol": "FILUSD_PERP",
+        "current_price": "2.620",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 2.108,
+        "high_price": 3.595
+    },
+    {
+        "symbol": "WIFUSD_PERP",
+        "current_price": "1.030100",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.3034,
+        "high_price": 1.4
+    },
+    {
+        "symbol": "WIFUSD_PERP",
+        "current_price": "1.030100",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.3034,
+        "high_price": 1.4
+    },
+    {
+        "symbol": "AXSUSD_PERP",
+        "current_price": "2.5800",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 2.095,
+        "high_price": 4.023
+    },
+    {
+        "symbol": "WLDUSD_PERP",
+        "current_price": "1.160100",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5708,
+        "high_price": 1.6461
+    },
+    {
+        "symbol": "WLDUSD_PERP",
+        "current_price": "1.160100",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.5708,
+        "high_price": 1.6461
+    },
+    {
+        "symbol": "TRXUSD_PERP",
+        "current_price": "0.28666",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.21066,
+        "high_price": 0.29018
+    },
+    {
+        "symbol": "BTCUSD_PERP",
+        "current_price": "109832.5",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 74388.8,
+        "high_price": 112087.2
+    },
+    {
+        "symbol": "THETAUSD_PERP",
+        "current_price": "0.806",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.602,
+        "high_price": 1.308
+    },
+    {
+        "symbol": "THETAUSD_PERP",
+        "current_price": "0.806",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.602,
+        "high_price": 1.308
+    },
+    {
+        "symbol": "XRPUSD_PERP",
+        "current_price": "2.3120",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 1.61,
+        "high_price": 3.0049
+    },
+    {
+        "symbol": "EGLDUSD_PERP",
+        "current_price": "15.804",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 11.74,
+        "high_price": 25.92
+    },
+    {
+        "symbol": "EGLDUSD_PERP",
+        "current_price": "15.804",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 11.74,
+        "high_price": 25.92
+    },
+    {
+        "symbol": "BCHUSD_PERP",
+        "current_price": "425.74",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 248.78,
+        "high_price": 461.59
+    },
+    {
+        "symbol": "AVAXUSD_PERP",
+        "current_price": "22.13",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 14.62,
+        "high_price": 26.85
+    },
+    {
+        "symbol": "RUNEUSD_PERP",
+        "current_price": "1.7420",
+        "type": "涨2倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.956,
+        "high_price": 2.189
+    },
+    {
+        "symbol": "RUNEUSD_PERP",
+        "current_price": "1.7420",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.956,
+        "high_price": 2.189
+    },
+    {
+        "symbol": "ATOMUSD_PERP",
+        "current_price": "4.451",
+        "type": "跌>70%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 3.377,
+        "high_price": 5.494
+    }
+]

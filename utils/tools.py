@@ -29,9 +29,10 @@ def download_exchange_info():
 def tiker():
     cm_futures_client = get_client()
     tiker = cm_futures_client.ticker_price()
+    
     with open('./data/tiker.json', 'w') as f:
         tiker = list(
-            filter(lambda x: x.get('symbol').endswith('_PERP'), tiker)
+            filter(lambda x: "_PERP" in x.get('symbol'), tiker)
         )
         print(len(tiker), "tiker found")
         json.dump(tiker, f, indent=4)
@@ -40,18 +41,6 @@ def tiker():
 # 获取K线数据 月线
 def klines():
     cm_futures_client = get_client()
-    #读取 tiker.json文件
-    # with open('./data/tiker.json', 'r') as f:
-    #     tiker = json.load(f)
-        
-    # for t in tiker:
-    #     symbol = t['symbol']
-    #     klines = cm_futures_client.klines(symbol=symbol, interval='1m', limit=4)
-    #     with open(f'./data/klines/{symbol}.json', 'w') as f:
-    #         json.dump(klines, f, indent=4)
-    #     print(f"{symbol} klines saved")
-        
-        
     try:
         with open('./data/tiker.json', 'r') as f:
             tiker = json.load(f)
@@ -61,7 +50,11 @@ def klines():
     
     def fetch_klines(symbol, ):
         try:
-            result = cm_futures_client.klines(symbol=symbol, interval='1m', limit=4)
+            result = cm_futures_client.klines(
+                symbol=symbol,
+                interval='1M',
+                limit=4
+            )
             with open(f'./data/klines/{symbol}.json', 'w') as f:
                 json.dump(result, f, indent=4)
                 print(f"{symbol} klines saved")
@@ -85,8 +78,8 @@ def read_klines():
     results = [] 
     for t in tiker:
         symbol = t['symbol']
+        current_price = t.get('price', 0.0)
         try:
-            print(f"Processing {symbol}...")
             with open(f'./data/klines/{symbol}.json', 'r') as f:
                 data = json.load(f)
         except FileNotFoundError:
@@ -102,26 +95,34 @@ def read_klines():
         df[['high','low','close']] = df[['high','low','close']].astype(float)
         low_price = df['low'].min()
         high_price = df['high'].max()
-        current_price = df['close'].iloc[-1]
+        #把时间戳转换为可读时间格式
+        times = pd.to_datetime(df['openTime'], unit='ms').to_string()
+        print(f"{symbol} - Low: {low_price}, High: {high_price}")
 
-        if current_price / low_price >= 3:
+        if high_price / low_price >= 2:
             results.append({
                 'symbol': symbol,
-                'type': '涨 ≥ 3 倍',
-                'low': low_price,
-                'current': current_price,
-                'ratio': round(current_price / low_price, 2)
-            })
-        elif (high_price - current_price) / high_price >= 0.7:
-            results.append({
-                'symbol': symbol,
-                'type': '跌 ≥ 70%',
-                'high': high_price,
-                'current': current_price,
-                'ratio': round((high_price - current_price) / high_price * 100, 2)
+                'current_price': current_price,
+                'type': '涨2倍以上',
+                'time': times,
+                'low_price': low_price,
+                'high_price': high_price,
             })
             
-        
-    with open('./data/result.json', 'w') as f:
-        json.dump(results, f, indent=4)
-        print(f"Results saved to ./data/result.json with {len(results)} entries")
+        if high_price / low_price >= 0.5:
+            results.append({
+                'symbol': symbol,
+                'current_price': current_price,
+                'type': '跌>70%',
+                'time':times,
+                'low_price': low_price,
+                'high_price': high_price,
+                
+            })
+            
+    # 把result结果 写入json文件 支持中文
+
+    with open('./data/result.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
+        print(f"Results saved to ./data/result.json with {len(results)} entries")    
+    
