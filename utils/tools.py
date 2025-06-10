@@ -17,7 +17,7 @@ def download_exchange_info():
     with open('./data/exchange_info.json', 'w') as f:
         symbols = exchange_info.get('symbols', [])
         symbols = list(
-            filter(lambda x: x.get('symbol').endswith('_PERP') and x.get('contractStatus') == 'TRADING', symbols)
+            filter(lambda x: '_PERP' in x.get('symbol') and x.get('contractStatus') == 'TRADING', symbols)
         )
         print(len(symbols), "symbols found")
         # 遍历symbols 只保留 symbol,字段
