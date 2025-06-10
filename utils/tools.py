@@ -1,51 +1,29 @@
 from config import api_key, api_secret
-from binance.cm_futures import CMFutures
 from concurrent.futures import ThreadPoolExecutor
+import requests
 import json
 import pandas as pd
+import os
 
-
-# 创建客户端
-def get_client():
-    cm_futures_client = CMFutures(key=api_key, secret=api_secret)
-    return cm_futures_client
-
-
-# 下载交易所信息
-def download_exchange_info():
-    cm_futures_client = get_client()
-    exchange_info = cm_futures_client.exchange_info()
-
-    with open("./data/exchange_info.json", "w") as f:
-        symbols = exchange_info.get("symbols", [])
-        symbols = list(
-            filter(
-                lambda x: "_PERP" in x.get("symbol")
-                and x.get("contractStatus") == "TRADING",
-                symbols,
-            )
-        )
-        print(len(symbols), "symbols found")
-        # 遍历symbols 只保留 symbol,字段
-        symbols = [{"symbol": symbol["symbol"]} for symbol in symbols]
-        json.dump(symbols, f, indent=4)
-    return exchange_info
-
+base_url = "https://fapi.binance.com"
+ # 超跌比例
+low_ratio = 0.7
+high_ratio = 3.0
 
 # 获取交易对信息
 def tiker():
-    cm_futures_client = get_client()
-    tiker = cm_futures_client.ticker_price()
-
+    if os.path.exists("./data/tiker.json"):
+        return 
+    print("获取交易对信息,请稍等...")
+    result = requests.get(f'{base_url}/fapi/v1/ticker/price')
+    tiker = result.json()
     with open("./data/tiker.json", "w") as f:
-        tiker = list(filter(lambda x: "_PERP" in x.get("symbol"), tiker))
         print(len(tiker), "tiker found")
         json.dump(tiker, f, indent=4)
+   
 
-
-# 获取K线数据 月线
+# 获取K线数据月线
 def klines():
-    cm_futures_client = get_client()
     try:
         with open("./data/tiker.json", "r") as f:
             tiker = json.load(f)
@@ -53,18 +31,20 @@ def klines():
         print("Error: 文件未找到，请先运行tiker() 函数。")
         return
 
+    print('抓取k线数据,请稍等...')
     def fetch_klines(
         symbol,
     ):
         try:
-            result = cm_futures_client.klines(symbol=symbol, interval="1M", limit=4)
+            result = requests.get(f'{base_url}/fapi/v1/klines?symbol={symbol}&interval=1M&limit=4')
+            klines = result.json()
             with open(f"./data/klines/{symbol}.json", "w") as f:
-                json.dump(result, f, indent=4)
-                print(f"{symbol} klines saved")
+                json.dump(klines, f, indent=4)
         except Exception as e:
             print(f"Error fetching/saving {symbol} klines: {e}")
+            os._exit(0)
 
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=20) as executor:
         for t in tiker:
             symbol = t["symbol"]
             executor.submit(fetch_klines, symbol)
@@ -72,6 +52,7 @@ def klines():
 
 # 读取交易对月线json文件
 def read_klines():
+    print("开始读取交易对月线数据,分析超跌和超涨交易对")
     try:
         with open("./data/tiker.json", "r") as f:
             tiker = json.load(f)
@@ -114,29 +95,30 @@ def read_klines():
         # 把时间戳转换为可读时间格式
         times = pd.to_datetime(df["openTime"], unit="ms").to_string()
 
-        if current_price > low_price and current_price / low_price >= 2:
-            results.append(
-                {
-                    "symbol": symbol,
-                    "current_price": current_price,
-                    "type": "涨2倍以上",
-                    "time": times,
-                    "low_price": low_price,
-                    "high_price": high_price,
-                }
-            )
-
-        if current_price < high_price:
-            diff = high_price - current_price
-            ratio = 0.3
-            diff_ratio = diff / high_price
-            # print(f"{symbol} - {current_price}, {high_price} 价差： {diff}， 百分比：{diff_ratio * 100}%")
-            if diff/ high_price >= ratio:
+        if current_price > low_price:
+            diff_ratio = current_price / low_price
+            if diff_ratio >= high_ratio:
                 results.append(
                     {
                         "symbol": symbol,
                         "current_price": current_price,
-                        "type": f"跌>{ratio * 100}%",
+                        "type": f"涨{diff_ratio}倍以上",
+                        "time": times,
+                        "low_price": low_price,
+                        "high_price": high_price,
+                    }
+                )
+
+        if current_price < high_price:
+            diff = high_price - current_price
+            diff_ratio = diff / high_price
+            # print(f"{symbol} - {current_price}, {high_price} 价差： {diff}， 百分比：{diff_ratio * 100}%")
+            if diff/ high_price >= low_ratio:
+                results.append(
+                    {
+                        "symbol": symbol,
+                        "current_price": current_price,
+                        "type": f"跌>{diff_ratio * 100}%",
                         "time": times,
                         "low_price": low_price,
                         "high_price": high_price,
@@ -145,4 +127,4 @@ def read_klines():
 
     with open("./data/result.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
-        print(f"Results saved to ./data/result.json with {len(results)} entries")
+        print(f"晒选出来的交易对:  {len(results)} ")

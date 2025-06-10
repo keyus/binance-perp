@@ -1,106 +1,394 @@
 [
     {
-        "symbol": "ETHUSD_PERP",
-        "current_price": 2766.48,
-        "type": "涨2倍以上",
+        "symbol": "VIRTUALUSDT",
+        "current_price": 2.0621,
+        "type": "涨4.961742059672762倍以上",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 1382.09,
-        "high_price": 2798.9
+        "low_price": 0.4156,
+        "high_price": 2.589
     },
     {
-        "symbol": "OPUSD_PERP",
-        "current_price": 0.711,
-        "type": "跌>30.0%",
+        "symbol": "BRUSDT",
+        "current_price": 0.04796,
+        "type": "跌>78.40612336785232%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.5445,
-        "high_price": 1.1791
+        "low_price": 0.03853,
+        "high_price": 0.2221
     },
     {
-        "symbol": "ALGOUSD_PERP",
-        "current_price": 0.2065,
-        "type": "跌>30.0%",
+        "symbol": "TURBOUSDT",
+        "current_price": 0.0045189,
+        "type": "涨3.3256549896967913倍以上",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.1456,
-        "high_price": 0.3068
+        "low_price": 0.0013588,
+        "high_price": 0.0065824
     },
     {
-        "symbol": "AAVEUSD_PERP",
-        "current_price": 313.72,
-        "type": "涨2倍以上",
+        "symbol": "TROYUSDT",
+        "current_price": 0.000187,
+        "type": "跌>90.05319148936171%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 113.72,
-        "high_price": 317.83
+        "low_price": 0.000151,
+        "high_price": 0.00188
     },
     {
-        "symbol": "ETCUSD_PERP",
-        "current_price": 18.334,
-        "type": "跌>30.0%",
+        "symbol": "BADGERUSDT",
+        "current_price": 0.8358,
+        "type": "跌>79.52524435952084%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 12.647,
-        "high_price": 32.5
+        "low_price": 0.753,
+        "high_price": 4.0821
     },
     {
-        "symbol": "ADAUSD_PERP",
-        "current_price": 0.7113,
-        "type": "跌>30.0%",
+        "symbol": "TNSRUSDT",
+        "current_price": 0.1345,
+        "type": "跌>75.29843893480258%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.5099,
-        "high_price": 1.1739
+        "low_price": 0.1078,
+        "high_price": 0.5445
     },
     {
-        "symbol": "SUIUSD_PERP",
-        "current_price": 3.541,
-        "type": "涨2倍以上",
+        "symbol": "VIDTUSDT",
+        "current_price": 0.00293,
+        "type": "跌>90.44357469015004%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 1.7133,
-        "high_price": 4.298
+        "low_price": 0.00248,
+        "high_price": 0.03066
     },
     {
-        "symbol": "DOGSUSD_PERP",
-        "current_price": 0.000167,
-        "type": "跌>30.0%",
+        "symbol": "BERAUSDT",
+        "current_price": 2.518,
+        "type": "跌>72.5558583106267%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.0001004,
-        "high_price": 0.0002529
+        "low_price": 2.167,
+        "high_price": 9.175
     },
     {
-        "symbol": "WIFUSD_PERP",
-        "current_price": 1.0727,
-        "type": "涨2倍以上",
+        "symbol": "SIRENUSDT",
+        "current_price": 0.16317,
+        "type": "涨5.006750536974533倍以上",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.3034,
-        "high_price": 1.4
+        "low_price": 0.03259,
+        "high_price": 0.2049
     },
     {
-        "symbol": "AXSUSD_PERP",
-        "current_price": 2.633,
-        "type": "跌>30.0%",
+        "symbol": "ALPACAUSDT",
+        "current_price": 1.19,
+        "type": "涨48.472505091649694倍以上",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 2.095,
-        "high_price": 4.023
+        "low_price": 0.02455,
+        "high_price": 1.4763
     },
     {
-        "symbol": "WLDUSD_PERP",
-        "current_price": 1.1881,
-        "type": "涨2倍以上",
+        "symbol": "MOVEUSDT",
+        "current_price": 0.1614,
+        "type": "跌>72.46673490276356%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.5708,
-        "high_price": 1.6461
+        "low_price": 0.1284,
+        "high_price": 0.5862
     },
     {
-        "symbol": "THETAUSD_PERP",
-        "current_price": 0.825,
-        "type": "跌>30.0%",
+        "symbol": "ACTUSDT",
+        "current_price": 0.05231,
+        "type": "跌>76.81808109904719%",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 0.602,
-        "high_price": 1.308
+        "low_price": 0.04097,
+        "high_price": 0.22565
     },
     {
-        "symbol": "EGLDUSD_PERP",
-        "current_price": 16.162,
-        "type": "跌>30.0%",
+        "symbol": "WIFUSDT",
+        "current_price": 1.0283,
+        "type": "涨3.3825657894736842倍以上",
         "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
-        "low_price": 11.74,
-        "high_price": 25.92
+        "low_price": 0.304,
+        "high_price": 1.3918
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "current_price": 0.0812,
+        "type": "跌>81.15134633240483%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0718,
+        "high_price": 0.4308
+    },
+    {
+        "symbol": "FARTCOINUSDT",
+        "current_price": 1.2848,
+        "type": "涨6.466029189733266倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1987,
+        "high_price": 1.6492
+    },
+    {
+        "symbol": "MOODENGUSDT",
+        "current_price": 0.21106,
+        "type": "涨10.270559610705597倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.02055,
+        "high_price": 0.34497
+    },
+    {
+        "symbol": "BELUSDT",
+        "current_price": 0.2998,
+        "type": "跌>71.98130841121495%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.2644,
+        "high_price": 1.07
+    },
+    {
+        "symbol": "SXTUSDT",
+        "current_price": 0.09817,
+        "type": "跌>87.30341438178996%",
+        "time": "0   2025-05-01\n1   2025-06-01",
+        "low_price": 0.09035,
+        "high_price": 0.7732
+    },
+    {
+        "symbol": "COOKIEUSDT",
+        "current_price": 0.2608,
+        "type": "涨3.715099715099715倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0702,
+        "high_price": 0.3684
+    },
+    {
+        "symbol": "AERGOUSDT",
+        "current_price": 0.1205,
+        "type": "跌>71.97674418604652%",
+        "time": "0   2025-04-01\n1   2025-05-01\n2   2025-06-01",
+        "low_price": 0.109,
+        "high_price": 0.43
+    },
+    {
+        "symbol": "ETHFIUSDT",
+        "current_price": 1.3453,
+        "type": "涨3.3733701103309928倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.3988,
+        "high_price": 1.6574
+    },
+    {
+        "symbol": "ANIMEUSDT",
+        "current_price": 0.03891,
+        "type": "涨3.215702479338843倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0121,
+        "high_price": 0.04626
+    },
+    {
+        "symbol": "NEIROETHUSDT",
+        "current_price": 0.09169,
+        "type": "涨5.981082844096543倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.01533,
+        "high_price": 0.127
+    },
+    {
+        "symbol": "LAYERUSDT",
+        "current_price": 0.7881,
+        "type": "跌>76.94737765817415%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.7043,
+        "high_price": 3.4187
+    },
+    {
+        "symbol": "ETHFIUSDC",
+        "current_price": 1.3455,
+        "type": "涨3.3721804511278193倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.399,
+        "high_price": 1.6541
+    },
+    {
+        "symbol": "1000SATSUSDT",
+        "current_price": 4.73e-05,
+        "type": "跌>76.11111111111111%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 3.25e-05,
+        "high_price": 0.000198
+    },
+    {
+        "symbol": "COMBOUSDT",
+        "current_price": 0.0695,
+        "type": "跌>77.55892799483371%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0588,
+        "high_price": 0.3097
+    },
+    {
+        "symbol": "MEMEFIUSDT",
+        "current_price": 0.001344,
+        "type": "跌>81.3047711781889%",
+        "time": "0   2025-04-01\n1   2025-05-01\n2   2025-06-01",
+        "low_price": 0.001191,
+        "high_price": 0.007189
+    },
+    {
+        "symbol": "BROCCOLIF3BUSDT",
+        "current_price": 0.010995,
+        "type": "跌>90.64175674525491%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.005251,
+        "high_price": 0.11749
+    },
+    {
+        "symbol": "PENGUUSDT",
+        "current_price": 0.011424,
+        "type": "涨3.0884022708840226倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.003699,
+        "high_price": 0.017487
+    },
+    {
+        "symbol": "OMUSDT",
+        "current_price": 0.3095,
+        "type": "跌>96.24848484848485%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.27675,
+        "high_price": 8.25
+    },
+    {
+        "symbol": "PUMPUSDT",
+        "current_price": 0.0573,
+        "type": "跌>75.93953390720135%",
+        "time": "0   2025-04-01\n1   2025-05-01\n2   2025-06-01",
+        "low_price": 0.0465,
+        "high_price": 0.23815
+    },
+    {
+        "symbol": "GUNUSDT",
+        "current_price": 0.03456,
+        "type": "跌>70.20689655172414%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0325,
+        "high_price": 0.116
+    },
+    {
+        "symbol": "JELLYJELLYUSDT",
+        "current_price": 0.02666,
+        "type": "涨3.1254396248534584倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.00853,
+        "high_price": 0.07199
+    },
+    {
+        "symbol": "ARCUSDT",
+        "current_price": 0.04129,
+        "type": "跌>83.59163884914958%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.02778,
+        "high_price": 0.25164
+    },
+    {
+        "symbol": "LINAUSDT",
+        "current_price": 0.000742,
+        "type": "跌>70.67193675889328%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0006,
+        "high_price": 0.00253
+    },
+    {
+        "symbol": "NULSUSDT",
+        "current_price": 0.0313,
+        "type": "跌>88.13495072024261%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0291,
+        "high_price": 0.2638
+    },
+    {
+        "symbol": "GPSUSDT",
+        "current_price": 0.0288,
+        "type": "跌>85.90998043052838%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.01515,
+        "high_price": 0.2044
+    },
+    {
+        "symbol": "NEIROUSDT",
+        "current_price": 0.0005112,
+        "type": "涨3.68565248738284倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0001387,
+        "high_price": 0.0007107
+    },
+    {
+        "symbol": "AIOTUSDT",
+        "current_price": 0.14266,
+        "type": "跌>71.09219858156028%",
+        "time": "0   2025-04-01\n1   2025-05-01\n2   2025-06-01",
+        "low_price": 0.12,
+        "high_price": 0.4935
+    },
+    {
+        "symbol": "1000000MOGUSDT",
+        "current_price": 1.1033,
+        "type": "涨4.29466718567536倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.2569,
+        "high_price": 1.4861
+    },
+    {
+        "symbol": "ALCHUSDT",
+        "current_price": 0.13521,
+        "type": "涨3.854332953249715倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.03508,
+        "high_price": 0.2423
+    },
+    {
+        "symbol": "SPXUSDT",
+        "current_price": 1.4379,
+        "type": "涨5.6878955696202524倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.2528,
+        "high_price": 1.4787
+    },
+    {
+        "symbol": "CHILLGUYUSDT",
+        "current_price": 0.0657,
+        "type": "涨3.691011235955056倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0178,
+        "high_price": 0.11888
+    },
+    {
+        "symbol": "POPCATUSDT",
+        "current_price": 0.4012,
+        "type": "涨3.4115646258503403倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.1176,
+        "high_price": 0.6437
+    },
+    {
+        "symbol": "MUBARAKUSDT",
+        "current_price": 0.0424,
+        "type": "跌>80.90090090090091%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0209,
+        "high_price": 0.222
+    },
+    {
+        "symbol": "GOATUSDT",
+        "current_price": 0.13595,
+        "type": "涨3.8403954802259883倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.0354,
+        "high_price": 0.25375
+    },
+    {
+        "symbol": "WIFUSDC",
+        "current_price": 1.0286,
+        "type": "涨3.3891268533772654倍以上",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 0.3035,
+        "high_price": 1.3917
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "current_price": 10.838,
+        "type": "跌>84.06176470588235%",
+        "time": "0   2025-03-01\n1   2025-04-01\n2   2025-05-01\n3   2025-06-01",
+        "low_price": 9.647,
+        "high_price": 68.0
     }
 ]

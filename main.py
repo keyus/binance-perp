@@ -1,4 +1,3 @@
-import json
 import utils.tools as utils
 
 def main():
