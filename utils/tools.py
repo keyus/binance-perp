@@ -1,4 +1,3 @@
-from config import api_key, api_secret
 from concurrent.futures import ThreadPoolExecutor
 import requests
 import json
