@@ -15,8 +15,11 @@ high_ratio = 3.5
 
 # 获取交易对信息
 def tiker():
+    #如果存在tiker.json文件，则删除
     if os.path.exists("./data/tiker.json"):
-        return
+        print("删除旧的tiker.json文件...")
+        os.remove("./data/tiker.json")
+        
     print("获取交易对信息,请稍等...")
     result = requests.get(f"{base_url}/fapi/v1/ticker/price")
     tiker = result.json()
