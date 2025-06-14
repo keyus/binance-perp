@@ -6,11 +6,13 @@ import os
 import shutil
 
 base_url = "https://fapi.binance.com"
-interval = "1M"
-limit = 2
-# 超跌比例
-low_ratio = 0.7
-high_ratio = 3.5
+interval = "1d"
+interval_type = '天'
+limit = 7                                   # 获取最近25周的K线数据
+# 超涨比例限制 涨幅大于5倍
+high_ratio = 0.45
+# 超跌比例限制 跌幅小于50%
+low_ratio = 0.6
 
 
 # 获取交易对信息
@@ -23,6 +25,10 @@ def tiker():
     print("获取交易对信息,请稍等...")
     result = requests.get(f"{base_url}/fapi/v1/ticker/price")
     tiker = result.json()
+    # 过滤掉不需要的交易对 btc,eth,bnb
+    tiker = [
+        t for t in tiker if not (t["symbol"] in ["BTC", "ETH", "BNB", "TRX"])
+    ]
     with open("./data/tiker.json", "w") as f:
         print(len(tiker), "tiker found")
         json.dump(tiker, f, indent=4)
@@ -56,6 +62,7 @@ def klines():
                 print(f"Error fetching {symbol} klines: {result.status_code}")
                 return
             klines = result.json()
+            
             with open(f"./data/klines/{symbol}.json", "w") as f:
                 json.dump(klines, f, indent=4)
         except Exception as e:
@@ -82,12 +89,16 @@ def read_klines():
     for t in tiker:
         symbol = t["symbol"]
         current_price = float(t.get("price", 0.0))
+        current_price_time = t['time']
+        file = f"./data/klines/{symbol}.json"
         try:
-            with open(f"./data/klines/{symbol}.json", "r") as f:
+            if not os.path.exists(file):
+                continue
+            with open(file, "r") as f:
                 data = json.load(f)
         except FileNotFoundError:
             print(f"Error: {symbol} 交易对 klines 数据文件不存在")
-            return None
+            break
 
         df = pd.DataFrame(
             data,
@@ -109,14 +120,22 @@ def read_klines():
 
         df[["high", "low", "close"]] = df[["high", "low", "close"]].astype(float)
         low_price = df["low"].min()
+        low_price_openTime = df.loc[df["low"] == low_price, "closeTime"].values[0]
         high_price = df["high"].max()
+        high_price_openTime = df.loc[df["high"] == high_price, "closeTime"].values[0]
+        # print('时间', low_price_openTime)
+        
+        # is_high_before_limit = current_price_time - high_price_openTime >=  1000 * 60 * 60 * 24 * 30 * limit_month
+        # is_low_before_limit = current_price_time - low_price_openTime >=  1000 * 60 * 60 * 24 * 30 * limit_month
+        
         # 把时间戳转换为可读时间格式
         times = pd.to_datetime(df["openTime"], unit="ms").to_string()
-
         symbol = symbol.replace("USDT", "").replace("BUSD", "")
         
+        #涨幅大于5倍
         if current_price > low_price:
-            diff_ratio = current_price / low_price
+            diff = current_price - low_price
+            diff_ratio = diff / low_price
             diff_ratio = round(diff_ratio, 2)
             
             if diff_ratio >= high_ratio:
@@ -127,18 +146,19 @@ def read_klines():
                         "diff_ratio": diff_ratio,
                         "low_price": low_price,
                         "high_price": high_price,
-                        "desc": f"近{limit}月,涨{diff_ratio}倍以上",
                         "direction": "空",
                         "time": times,
                     }
                 )
-
+                
+                
+        # 跌幅小于50%
         if current_price < high_price:
             diff = high_price - current_price
             diff_ratio = diff / high_price
             diff_ratio = round(diff_ratio, 2)
             # print(f"{symbol} - {current_price}, {high_price} 价差： {diff}， 百分比：{diff_ratio * 100}%")
-            if diff / high_price >= low_ratio:
+            if diff_ratio > low_ratio:
                 results.append(
                     {
                         "symbol": symbol,
@@ -146,7 +166,6 @@ def read_klines():
                         "diff_ratio": -diff_ratio,
                         "low_price": low_price,
                         "high_price": high_price,
-                        "desc": f"近{limit}月，超跌>{diff_ratio * 100}%",
                         "direction": "多",
                         "time": times,
                     }

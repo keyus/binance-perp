@@ -1,123 +1,13 @@
 [
     {
-        "symbol": "MELANIAUSDT",
-        "price": "0.250200",
-        "time": 1749823564856
+        "symbol": "MOODENGUSDT",
+        "price": "0.1576700",
+        "time": 1749907796339
     },
     {
-        "symbol": "SOLUSDC",
-        "price": "145.0500",
-        "time": 1749823565517
-    },
-    {
-        "symbol": "AVAUSDT",
-        "price": "0.5237000",
-        "time": 1749823561459
-    },
-    {
-        "symbol": "MOVRUSDT",
-        "price": "5.780000",
-        "time": 1749823568202
-    },
-    {
-        "symbol": "ONGUSDT",
-        "price": "0.1682700",
-        "time": 1749823565986
-    },
-    {
-        "symbol": "STXUSDT",
-        "price": "0.6114000",
-        "time": 1749823570131
-    },
-    {
-        "symbol": "LINAUSDT",
-        "price": "0.000742",
-        "time": 1743066067031
-    },
-    {
-        "symbol": "VICUSDT",
-        "price": "0.1546000",
-        "time": 1749823565074
-    },
-    {
-        "symbol": "DGBUSDT",
-        "price": "0.01922",
-        "time": 1711962006671
-    },
-    {
-        "symbol": "ETHUSDT_250926",
-        "price": "2570.40",
-        "time": 1749823570129
-    },
-    {
-        "symbol": "WOOUSDT",
-        "price": "0.06829",
-        "time": 1749823567376
-    },
-    {
-        "symbol": "PROMUSDT",
-        "price": "5.3290000",
-        "time": 1749823560269
-    },
-    {
-        "symbol": "DEGENUSDT",
-        "price": "0.0038040",
-        "time": 1749823566136
-    },
-    {
-        "symbol": "ZECUSDT",
-        "price": "45.77",
-        "time": 1749823564097
-    },
-    {
-        "symbol": "LOOMUSDT",
-        "price": "0.0811200",
-        "time": 1733734774400
-    },
-    {
-        "symbol": "ICPUSDT",
-        "price": "5.427000",
-        "time": 1749823569645
-    },
-    {
-        "symbol": "WAVESUSDT",
-        "price": "1.3355",
-        "time": 1718096387784
-    },
-    {
-        "symbol": "SSVUSDT",
-        "price": "8.880000",
-        "time": 1749823565336
-    },
-    {
-        "symbol": "ACTUSDT",
-        "price": "0.0457800",
-        "time": 1749823569829
-    },
-    {
-        "symbol": "KOMAUSDT",
-        "price": "0.0179900",
-        "time": 1749823561528
-    },
-    {
-        "symbol": "OGNUSDT",
-        "price": "0.0503",
-        "time": 1749823564466
-    },
-    {
-        "symbol": "AGIXUSDT",
-        "price": "0.7009000",
-        "time": 1719306034000
-    },
-    {
-        "symbol": "BNTUSDT",
-        "price": "0.5955900",
-        "time": 1749823561676
-    },
-    {
-        "symbol": "ENAUSDT",
-        "price": "0.2915000",
-        "time": 1749823570856
+        "symbol": "FILUSDT",
+        "price": "2.432",
+        "time": 1749907788609
     },
     {
         "symbol": "COMBOUSDT",
@@ -125,344 +15,44 @@
         "time": 1743066051397
     },
     {
-        "symbol": "MOODENGUSDT",
-        "price": "0.1535800",
-        "time": 1749823568977
+        "symbol": "XMRUSDT",
+        "price": "315.33",
+        "time": 1749907796340
     },
     {
-        "symbol": "NEARUSDT",
-        "price": "2.2030",
-        "time": 1749823571466
+        "symbol": "FIDAUSDT",
+        "price": "0.0639500",
+        "time": 1749907796405
     },
     {
-        "symbol": "ONEUSDT",
-        "price": "0.01025",
-        "time": 1749823568642
+        "symbol": "LSKUSDT",
+        "price": "0.408100",
+        "time": 1749907797073
     },
     {
-        "symbol": "EGLDUSDT",
-        "price": "13.667",
-        "time": 1749823570213
+        "symbol": "NEOUSDC",
+        "price": "5.638",
+        "time": 1749907797062
     },
     {
-        "symbol": "ARKMUSDT",
-        "price": "0.4568000",
-        "time": 1749823568096
+        "symbol": "ETHBTC",
+        "price": "0.024188",
+        "time": 1749907773469
     },
     {
-        "symbol": "FIOUSDT",
-        "price": "0.0137000",
-        "time": 1749823564307
+        "symbol": "AVAXUSDT",
+        "price": "19.1380",
+        "time": 1749907796107
     },
     {
-        "symbol": "C98USDT",
-        "price": "0.0456",
-        "time": 1749823560847
+        "symbol": "FLOWUSDT",
+        "price": "0.354",
+        "time": 1749907783405
     },
     {
-        "symbol": "MLNUSDT",
-        "price": "7.58300",
-        "time": 1749823569040
-    },
-    {
-        "symbol": "SPXUSDT",
-        "price": "1.3347000",
-        "time": 1749823566074
-    },
-    {
-        "symbol": "POPCATUSDT",
-        "price": "0.2996000",
-        "time": 1749823570333
-    },
-    {
-        "symbol": "IPUSDC",
-        "price": "3.494960",
-        "time": 1749823565713
-    },
-    {
-        "symbol": "STGUSDT",
-        "price": "0.1669000",
-        "time": 1749823563814
-    },
-    {
-        "symbol": "MAVUSDT",
-        "price": "0.0482400",
-        "time": 1749823568214
-    },
-    {
-        "symbol": "MEMEUSDT",
-        "price": "0.0015600",
-        "time": 1749823565258
-    },
-    {
-        "symbol": "DFUSDT",
-        "price": "0.0405900",
-        "time": 1749823571523
-    },
-    {
-        "symbol": "RENDERUSDT",
-        "price": "3.3740000",
-        "time": 1749823564166
-    },
-    {
-        "symbol": "ARBUSDT",
-        "price": "0.335800",
-        "time": 1749823568980
-    },
-    {
-        "symbol": "ENSUSDT",
-        "price": "19.936",
-        "time": 1749823567762
-    },
-    {
-        "symbol": "MANTAUSDT",
-        "price": "0.2032000",
-        "time": 1749823565624
-    },
-    {
-        "symbol": "SFPUSDT",
-        "price": "0.4489",
-        "time": 1749823567089
-    },
-    {
-        "symbol": "ZETAUSDT",
-        "price": "0.189300",
-        "time": 1749823564150
-    },
-    {
-        "symbol": "MORPHOUSDT",
-        "price": "1.4049000",
-        "time": 1749823563738
-    },
-    {
-        "symbol": "JELLYJELLYUSDT",
-        "price": "0.0236000",
-        "time": 1749823565630
-    },
-    {
-        "symbol": "ACEUSDT",
-        "price": "0.529600",
-        "time": 1749823568804
-    },
-    {
-        "symbol": "BLURUSDT",
-        "price": "0.0790600",
-        "time": 1749823571222
-    },
-    {
-        "symbol": "DOLOUSDT",
-        "price": "0.0338810",
-        "time": 1749823567508
-    },
-    {
-        "symbol": "CYBERUSDT",
-        "price": "1.209000",
-        "time": 1749823564694
-    },
-    {
-        "symbol": "MAGICUSDT",
-        "price": "0.111300",
-        "time": 1749823569108
-    },
-    {
-        "symbol": "SNTUSDT",
-        "price": "0.0366600",
-        "time": 1715590784992
-    },
-    {
-        "symbol": "PEOPLEUSDT",
-        "price": "0.01766",
-        "time": 1749823566145
-    },
-    {
-        "symbol": "HYPEUSDT",
-        "price": "39.88900",
-        "time": 1749823567293
-    },
-    {
-        "symbol": "SHELLUSDT",
-        "price": "0.1353000",
-        "time": 1749823565908
-    },
-    {
-        "symbol": "MASKUSDT",
-        "price": "1.3868",
-        "time": 1749823570132
-    },
-    {
-        "symbol": "KNCUSDT",
-        "price": "0.31790",
-        "time": 1749823563421
-    },
-    {
-        "symbol": "SXPUSDT",
-        "price": "0.1671",
-        "time": 1749823563721
-    },
-    {
-        "symbol": "OCEANUSDT",
-        "price": "0.70700",
-        "time": 1719306047639
-    },
-    {
-        "symbol": "SQDUSDT",
-        "price": "0.2356000",
-        "time": 1749823569329
-    },
-    {
-        "symbol": "NMRUSDT",
-        "price": "7.424000",
-        "time": 1749823568441
-    },
-    {
-        "symbol": "AIXBTUSDT",
-        "price": "0.1709300",
-        "time": 1749823566248
-    },
-    {
-        "symbol": "SCRTUSDT",
-        "price": "0.1606000",
-        "time": 1749823567652
-    },
-    {
-        "symbol": "ZILUSDT",
-        "price": "0.01071",
-        "time": 1749823568845
-    },
-    {
-        "symbol": "GRIFFAINUSDT",
-        "price": "0.0412600",
-        "time": 1749823570135
-    },
-    {
-        "symbol": "DOGSUSDT",
-        "price": "0.0001281",
-        "time": 1749823569004
-    },
-    {
-        "symbol": "YFIUSDT",
-        "price": "5149.0",
-        "time": 1749823571209
-    },
-    {
-        "symbol": "DYDXUSDT",
-        "price": "0.507",
-        "time": 1749823563415
-    },
-    {
-        "symbol": "MILKUSDT",
-        "price": "0.0571700",
-        "time": 1749823564672
-    },
-    {
-        "symbol": "ETHUSDT",
-        "price": "2532.54",
-        "time": 1749823570149
-    },
-    {
-        "symbol": "AVAAIUSDT",
-        "price": "0.0283400",
-        "time": 1749823568000
-    },
-    {
-        "symbol": "HYPERUSDT",
-        "price": "0.1049000",
-        "time": 1749823570487
-    },
-    {
-        "symbol": "AKTUSDT",
-        "price": "1.2140000",
-        "time": 1749823564683
-    },
-    {
-        "symbol": "BUSDT",
-        "price": "0.3419400",
-        "time": 1749823569645
-    },
-    {
-        "symbol": "GOATUSDT",
-        "price": "0.1010300",
-        "time": 1749823568977
-    },
-    {
-        "symbol": "ALTUSDT",
-        "price": "0.0241600",
-        "time": 1749823565283
-    },
-    {
-        "symbol": "AXSUSDT",
-        "price": "2.28800",
-        "time": 1749823564226
-    },
-    {
-        "symbol": "DOTUSDT",
-        "price": "3.805",
-        "time": 1749823568775
-    },
-    {
-        "symbol": "ALCHUSDT",
-        "price": "0.1294800",
-        "time": 1749823564799
-    },
-    {
-        "symbol": "WIFUSDT",
-        "price": "0.8038000",
-        "time": 1749823570657
-    },
-    {
-        "symbol": "FXSUSDT",
-        "price": "2.525500",
-        "time": 1749823564671
-    },
-    {
-        "symbol": "CAKEUSDT",
-        "price": "2.4024000",
-        "time": 1749823570207
-    },
-    {
-        "symbol": "PENGUUSDT",
-        "price": "0.0095610",
-        "time": 1749823570348
-    },
-    {
-        "symbol": "GASUSDT",
-        "price": "2.806000",
-        "time": 1749823564690
-    },
-    {
-        "symbol": "SWELLUSDT",
-        "price": "0.0079600",
-        "time": 1749823562405
-    },
-    {
-        "symbol": "TIAUSDC",
-        "price": "1.7464000",
-        "time": 1749823567819
-    },
-    {
-        "symbol": "MTLUSDT",
-        "price": "0.6976",
-        "time": 1749823567335
-    },
-    {
-        "symbol": "RAREUSDT",
-        "price": "0.0513800",
-        "time": 1749823568411
-    },
-    {
-        "symbol": "MINAUSDT",
-        "price": "0.1784000",
-        "time": 1749823564147
-    },
-    {
-        "symbol": "KAITOUSDC",
-        "price": "1.364700",
-        "time": 1749823566246
-    },
-    {
-        "symbol": "DIAUSDT",
-        "price": "0.3846000",
-        "time": 1749823565461
+        "symbol": "ATAUSDT",
+        "price": "0.0418",
+        "time": 1749907797483
     },
     {
         "symbol": "FTMUSDT",
@@ -470,569 +60,29 @@
         "time": 1736154004023
     },
     {
-        "symbol": "BRETTUSDT",
-        "price": "0.0435200",
-        "time": 1749823571399
+        "symbol": "GOATUSDT",
+        "price": "0.1042300",
+        "time": 1749907796494
     },
     {
-        "symbol": "CELOUSDT",
-        "price": "0.282",
-        "time": 1749823567355
+        "symbol": "SIRENUSDT",
+        "price": "0.1471500",
+        "time": 1749907683132
     },
     {
-        "symbol": "POLYXUSDT",
-        "price": "0.1281800",
-        "time": 1749823565261
+        "symbol": "CAKEUSDT",
+        "price": "2.4435000",
+        "time": 1749907794118
     },
     {
-        "symbol": "GTCUSDT",
-        "price": "0.237",
-        "time": 1749823569114
+        "symbol": "BABYUSDT",
+        "price": "0.0581100",
+        "time": 1749907796472
     },
     {
-        "symbol": "ROSEUSDT",
-        "price": "0.02502",
-        "time": 1749823564991
-    },
-    {
-        "symbol": "ORCAUSDT",
-        "price": "2.1460000",
-        "time": 1749823564674
-    },
-    {
-        "symbol": "1000000MOGUSDT",
-        "price": "0.8853000",
-        "time": 1749823568443
-    },
-    {
-        "symbol": "DENTUSDT",
-        "price": "0.000606",
-        "time": 1749823564601
-    },
-    {
-        "symbol": "1000RATSUSDT",
-        "price": "0.0227600",
-        "time": 1749823566384
-    },
-    {
-        "symbol": "BTCUSDT_250926",
-        "price": "106202.6",
-        "time": 1749823564824
-    },
-    {
-        "symbol": "WCTUSDT",
-        "price": "0.3887000",
-        "time": 1749823571478
-    },
-    {
-        "symbol": "NXPCUSDT",
-        "price": "1.2802000",
-        "time": 1749823570312
-    },
-    {
-        "symbol": "CHESSUSDT",
-        "price": "0.0673800",
-        "time": 1749823564192
-    },
-    {
-        "symbol": "GMXUSDT",
-        "price": "14.939000",
-        "time": 1749823567950
-    },
-    {
-        "symbol": "CETUSUSDT",
-        "price": "0.0979400",
-        "time": 1749823571214
-    },
-    {
-        "symbol": "FLMUSDT",
-        "price": "0.0335",
-        "time": 1749823565265
-    },
-    {
-        "symbol": "CRVUSDC",
-        "price": "0.5971000",
-        "time": 1749823566249
-    },
-    {
-        "symbol": "SYRUPUSDT",
-        "price": "0.4731000",
-        "time": 1749823566501
-    },
-    {
-        "symbol": "STOUSDT",
-        "price": "0.0722900",
-        "time": 1749823565630
-    },
-    {
-        "symbol": "DUSDT",
-        "price": "0.0311400",
-        "time": 1749823566752
-    },
-    {
-        "symbol": "METISUSDT",
-        "price": "15.7700",
-        "time": 1749823570130
-    },
-    {
-        "symbol": "ETHUSDT_250627",
-        "price": "2538.12",
-        "time": 1749823567260
-    },
-    {
-        "symbol": "UNFIUSDT",
-        "price": "1.730",
-        "time": 1730278827332
-    },
-    {
-        "symbol": "BSVUSDT",
-        "price": "29.92000",
-        "time": 1749823564639
-    },
-    {
-        "symbol": "REIUSDT",
-        "price": "0.0165400",
-        "time": 1749823564160
-    },
-    {
-        "symbol": "CRVUSDT",
-        "price": "0.597",
-        "time": 1749823569934
-    },
-    {
-        "symbol": "NEIROUSDT",
-        "price": "0.00038470",
-        "time": 1749823570113
-    },
-    {
-        "symbol": "THEUSDT",
-        "price": "0.2372000",
-        "time": 1749823569756
-    },
-    {
-        "symbol": "PARTIUSDT",
-        "price": "0.2204000",
-        "time": 1749823565417
-    },
-    {
-        "symbol": "KDAUSDT",
-        "price": "0.4149000",
-        "time": 1749823567803
-    },
-    {
-        "symbol": "ORBSUSDT",
-        "price": "0.0351570",
-        "time": 1733734785865
-    },
-    {
-        "symbol": "VIDTUSDT",
-        "price": "0.0029300",
-        "time": 1744621300188
-    },
-    {
-        "symbol": "YGGUSDT",
-        "price": "0.1635000",
-        "time": 1749823564288
-    },
-    {
-        "symbol": "ETHFIUSDC",
-        "price": "1.0586000",
-        "time": 1749823564762
-    },
-    {
-        "symbol": "ATAUSDT",
-        "price": "0.0402",
-        "time": 1749823570157
-    },
-    {
-        "symbol": "GUNUSDT",
-        "price": "0.0266300",
-        "time": 1749823571190
-    },
-    {
-        "symbol": "ONTUSDT",
-        "price": "0.1245",
-        "time": 1749823571577
-    },
-    {
-        "symbol": "ADAUSDC",
-        "price": "0.634400",
-        "time": 1749823570131
-    },
-    {
-        "symbol": "HFTUSDT",
-        "price": "0.0513300",
-        "time": 1749823571218
-    },
-    {
-        "symbol": "BAKEUSDT",
-        "price": "0.0992",
-        "time": 1749823567627
-    },
-    {
-        "symbol": "NEOUSDC",
-        "price": "5.534",
-        "time": 1749823562457
-    },
-    {
-        "symbol": "AIOTUSDT",
-        "price": "0.1174600",
-        "time": 1749823565631
-    },
-    {
-        "symbol": "AXLUSDT",
-        "price": "0.4152000",
-        "time": 1749823569534
-    },
-    {
-        "symbol": "FIDAUSDT",
-        "price": "0.0624300",
-        "time": 1749823564975
-    },
-    {
-        "symbol": "PNUTUSDT",
-        "price": "0.2187700",
-        "time": 1749823570135
-    },
-    {
-        "symbol": "ALPACAUSDT",
-        "price": "1.1900000",
-        "time": 1746003726020
-    },
-    {
-        "symbol": "SXTUSDT",
-        "price": "0.0769100",
-        "time": 1749823565221
-    },
-    {
-        "symbol": "EIGENUSDT",
-        "price": "1.2528000",
-        "time": 1749823565689
-    },
-    {
-        "symbol": "XRPUSDC",
-        "price": "2.1370",
-        "time": 1749823565686
-    },
-    {
-        "symbol": "LTCUSDT",
-        "price": "83.54",
-        "time": 1749823566250
-    },
-    {
-        "symbol": "PUMPUSDT",
-        "price": "0.0471000",
-        "time": 1749805197819
-    },
-    {
-        "symbol": "AVAXUSDC",
-        "price": "18.980000",
-        "time": 1749823567735
-    },
-    {
-        "symbol": "BNBUSDT",
-        "price": "650.820",
-        "time": 1749823567019
-    },
-    {
-        "symbol": "ACHUSDT",
-        "price": "0.0185580",
-        "time": 1749823567894
-    },
-    {
-        "symbol": "OMGUSDT",
-        "price": "0.2910",
-        "time": 1738313994383
-    },
-    {
-        "symbol": "1000XECUSDT",
-        "price": "0.02010",
-        "time": 1749823564248
-    },
-    {
-        "symbol": "PHAUSDT",
-        "price": "0.1039100",
-        "time": 1749823567910
-    },
-    {
-        "symbol": "SLPUSDT",
-        "price": "0.0035150",
-        "time": 1715763640607
-    },
-    {
-        "symbol": "NEARUSDC",
-        "price": "2.2040",
-        "time": 1749823564154
-    },
-    {
-        "symbol": "BCHUSDT",
-        "price": "418.20",
-        "time": 1749823566342
-    },
-    {
-        "symbol": "ANIMEUSDT",
-        "price": "0.0234200",
-        "time": 1749823567150
-    },
-    {
-        "symbol": "WUSDT",
-        "price": "0.0656300",
-        "time": 1749823571217
-    },
-    {
-        "symbol": "LINKUSDC",
-        "price": "13.210",
-        "time": 1749823568985
-    },
-    {
-        "symbol": "KLAYUSDT",
-        "price": "0.1247",
-        "time": 1729587579289
-    },
-    {
-        "symbol": "SCRUSDT",
-        "price": "0.2655000",
-        "time": 1749823561423
-    },
-    {
-        "symbol": "MDTUSDT",
-        "price": "0.0633100",
-        "time": 1715850027442
-    },
-    {
-        "symbol": "THETAUSDT",
-        "price": "0.6884",
-        "time": 1749823568932
-    },
-    {
-        "symbol": "OMUSDT",
-        "price": "0.2519300",
-        "time": 1749823565913
-    },
-    {
-        "symbol": "CHRUSDT",
-        "price": "0.0770",
-        "time": 1749823563927
-    },
-    {
-        "symbol": "SKATEUSDT",
-        "price": "0.0327400",
-        "time": 1749823565185
-    },
-    {
-        "symbol": "PONKEUSDT",
-        "price": "0.1269500",
-        "time": 1749823566143
-    },
-    {
-        "symbol": "NOTUSDT",
-        "price": "0.0019990",
-        "time": 1749823565030
-    },
-    {
-        "symbol": "BNXUSDT",
-        "price": "2.000000",
-        "time": 1742202095139
-    },
-    {
-        "symbol": "CATIUSDT",
-        "price": "0.0805000",
-        "time": 1749823561433
-    },
-    {
-        "symbol": "FHEUSDT",
-        "price": "0.0749800",
-        "time": 1749823565706
-    },
-    {
-        "symbol": "1INCHUSDT",
-        "price": "0.1865",
-        "time": 1749823571413
-    },
-    {
-        "symbol": "SOLUSDT",
-        "price": "144.9600",
-        "time": 1749823570167
-    },
-    {
-        "symbol": "DASHUSDT",
-        "price": "20.02",
-        "time": 1749823564684
-    },
-    {
-        "symbol": "LITUSDT",
-        "price": "0.592",
-        "time": 1738313967323
-    },
-    {
-        "symbol": "SYSUSDT",
-        "price": "0.0348900",
-        "time": 1749823564864
-    },
-    {
-        "symbol": "EDUUSDT",
-        "price": "0.1311000",
-        "time": 1749823562759
-    },
-    {
-        "symbol": "PENDLEUSDT",
-        "price": "3.7814000",
-        "time": 1749823570518
-    },
-    {
-        "symbol": "PORTALUSDT",
-        "price": "0.0349000",
-        "time": 1749823564760
-    },
-    {
-        "symbol": "STORJUSDT",
-        "price": "0.2434",
-        "time": 1749823570317
-    },
-    {
-        "symbol": "TLMUSDT",
-        "price": "0.0042330",
-        "time": 1749823569253
-    },
-    {
-        "symbol": "FILUSDT",
-        "price": "2.368",
-        "time": 1749823570670
-    },
-    {
-        "symbol": "ZROUSDT",
-        "price": "1.9016000",
-        "time": 1749823571401
-    },
-    {
-        "symbol": "BTCDOMUSDT",
-        "price": "5335.2",
-        "time": 1749823569617
-    },
-    {
-        "symbol": "KMNOUSDT",
-        "price": "0.0580500",
-        "time": 1749823570490
-    },
-    {
-        "symbol": "TAIKOUSDT",
-        "price": "0.4690000",
-        "time": 1749823564856
-    },
-    {
-        "symbol": "1000SATSUSDT",
-        "price": "0.0000394",
-        "time": 1749823568460
-    },
-    {
-        "symbol": "AMBUSDT",
-        "price": "0.0011880",
-        "time": 1740128395028
-    },
-    {
-        "symbol": "RSRUSDT",
-        "price": "0.006225",
-        "time": 1749823564671
-    },
-    {
-        "symbol": "BOMEUSDC",
-        "price": "0.0015620",
-        "time": 1749823563392
-    },
-    {
-        "symbol": "KAITOUSDT",
-        "price": "1.364400",
-        "time": 1749823570330
-    },
-    {
-        "symbol": "LTCUSDC",
-        "price": "83.58",
-        "time": 1749823570099
-    },
-    {
-        "symbol": "SUIUSDT",
-        "price": "2.996900",
-        "time": 1749823570435
-    },
-    {
-        "symbol": "LAYERUSDT",
-        "price": "0.688600",
-        "time": 1749823569073
-    },
-    {
-        "symbol": "BERAUSDT",
-        "price": "1.988000",
-        "time": 1749823570275
-    },
-    {
-        "symbol": "WALUSDT",
-        "price": "0.4557000",
-        "time": 1749823566235
-    },
-    {
-        "symbol": "UXLINKUSDT",
-        "price": "0.3461000",
-        "time": 1749823563722
-    },
-    {
-        "symbol": "EPICUSDT",
-        "price": "1.047500",
-        "time": 1749823565605
-    },
-    {
-        "symbol": "LEVERUSDT",
-        "price": "0.0004241",
-        "time": 1749823569877
-    },
-    {
-        "symbol": "ARPAUSDT",
-        "price": "0.01860",
-        "time": 1749823571091
-    },
-    {
-        "symbol": "DRIFTUSDT",
-        "price": "0.4485000",
-        "time": 1749823564277
-    },
-    {
-        "symbol": "BMTUSDT",
-        "price": "0.0929500",
-        "time": 1749823568596
-    },
-    {
-        "symbol": "ARCUSDT",
-        "price": "0.0295700",
-        "time": 1749823565203
-    },
-    {
-        "symbol": "FILUSDC",
-        "price": "2.3690000",
-        "time": 1749823570203
-    },
-    {
-        "symbol": "LUNA2USDT",
-        "price": "0.1548000",
-        "time": 1749823568988
-    },
-    {
-        "symbol": "ETHBTC",
-        "price": "0.024226",
-        "time": 1749823564948
-    },
-    {
-        "symbol": "DOGEUSDC",
-        "price": "0.174810",
-        "time": 1749823568975
-    },
-    {
-        "symbol": "SAFEUSDT",
-        "price": "0.4269000",
-        "time": 1749823564678
-    },
-    {
-        "symbol": "FUNUSDT",
-        "price": "0.0039210",
-        "time": 1749823569992
+        "symbol": "MEWUSDT",
+        "price": "0.0028390",
+        "time": 1749907797118
     },
     {
         "symbol": "XEMUSDT",
@@ -1040,234 +90,174 @@
         "time": 1733734806663
     },
     {
-        "symbol": "1000FLOKIUSDT",
-        "price": "0.0762300",
-        "time": 1749823570524
+        "symbol": "ONTUSDT",
+        "price": "0.1283",
+        "time": 1749907791421
     },
     {
-        "symbol": "APEUSDT",
-        "price": "0.6490",
-        "time": 1749823570376
+        "symbol": "AIOTUSDT",
+        "price": "0.1210300",
+        "time": 1749907772113
     },
     {
-        "symbol": "DUSKUSDT",
-        "price": "0.05054",
-        "time": 1749823564116
+        "symbol": "JOEUSDT",
+        "price": "0.1530500",
+        "time": 1749907797077
     },
     {
-        "symbol": "ADAUSDT",
-        "price": "0.63420",
-        "time": 1749823570689
+        "symbol": "BCHUSDC",
+        "price": "435.58",
+        "time": 1749907796535
     },
     {
-        "symbol": "BIDUSDT",
-        "price": "0.0541300",
-        "time": 1749823564643
+        "symbol": "JASMYUSDT",
+        "price": "0.013157",
+        "time": 1749907796459
     },
     {
-        "symbol": "MEMEFIUSDT",
-        "price": "0.0011300",
-        "time": 1749823566080
+        "symbol": "FIOUSDT",
+        "price": "0.0143100",
+        "time": 1749907797546
     },
     {
-        "symbol": "SWARMSUSDT",
-        "price": "0.0195500",
-        "time": 1749823564862
+        "symbol": "BTCUSDT_250627",
+        "price": "105022.4",
+        "time": 1749907777189
     },
     {
-        "symbol": "XTZUSDT",
-        "price": "0.552",
-        "time": 1749823565818
+        "symbol": "ALCHUSDT",
+        "price": "0.1284700",
+        "time": 1749907784830
     },
     {
-        "symbol": "IOTAUSDT",
-        "price": "0.1665",
-        "time": 1749823567400
-    },
-    {
-        "symbol": "OGUSDT",
-        "price": "4.160000",
-        "time": 1749823563536
-    },
-    {
-        "symbol": "MANAUSDT",
-        "price": "0.2594",
-        "time": 1749823566070
-    },
-    {
-        "symbol": "VIRTUALUSDT",
-        "price": "1.8118000",
-        "time": 1749823569017
-    },
-    {
-        "symbol": "RENUSDT",
-        "price": "0.04800",
-        "time": 1733216405428
-    },
-    {
-        "symbol": "PORT3USDT",
-        "price": "0.0479200",
-        "time": 1749823566074
-    },
-    {
-        "symbol": "NILUSDT",
-        "price": "0.324500",
-        "time": 1749823571041
-    },
-    {
-        "symbol": "XVGUSDT",
-        "price": "0.0050900",
-        "time": 1749823565998
-    },
-    {
-        "symbol": "CGPTUSDT",
-        "price": "0.0901000",
-        "time": 1749823564154
-    },
-    {
-        "symbol": "USUALUSDT",
-        "price": "0.0961000",
-        "time": 1749823568289
-    },
-    {
-        "symbol": "PROMPTUSDT",
-        "price": "0.1468000",
-        "time": 1749823564305
-    },
-    {
-        "symbol": "WLDUSDC",
-        "price": "0.9644000",
-        "time": 1749823570125
-    },
-    {
-        "symbol": "RIFUSDT",
-        "price": "0.0500700",
-        "time": 1749823564837
-    },
-    {
-        "symbol": "BANANAS31USDT",
-        "price": "0.0059370",
-        "time": 1749823563371
-    },
-    {
-        "symbol": "BIOUSDT",
-        "price": "0.0529800",
-        "time": 1749823565254
-    },
-    {
-        "symbol": "HOOKUSDT",
-        "price": "0.098900",
-        "time": 1749823569485
-    },
-    {
-        "symbol": "BICOUSDT",
-        "price": "0.0891000",
-        "time": 1749823564933
+        "symbol": "WUSDT",
+        "price": "0.0688400",
+        "time": 1749907796448
     },
     {
         "symbol": "REZUSDT",
-        "price": "0.0089500",
-        "time": 1749823570132
+        "price": "0.0095900",
+        "time": 1749907794712
     },
     {
-        "symbol": "FORTHUSDT",
-        "price": "2.414000",
-        "time": 1749823561839
+        "symbol": "VOXELUSDT",
+        "price": "0.0521300",
+        "time": 1749907786059
     },
     {
-        "symbol": "AVAXUSDT",
-        "price": "18.9740",
-        "time": 1749823570457
+        "symbol": "ALGOUSDT",
+        "price": "0.1796",
+        "time": 1749907787994
     },
     {
-        "symbol": "BABYUSDT",
-        "price": "0.0543100",
-        "time": 1749823565629
+        "symbol": "COOKIEUSDT",
+        "price": "0.1957000",
+        "time": 1749907797016
     },
     {
-        "symbol": "NFPUSDT",
-        "price": "0.0603100",
-        "time": 1749823570137
+        "symbol": "GRASSUSDT",
+        "price": "1.6371000",
+        "time": 1749907796770
     },
     {
-        "symbol": "FETUSDT",
-        "price": "0.6552000",
-        "time": 1749823565916
+        "symbol": "RAYSOLUSDT",
+        "price": "2.0774000",
+        "time": 1749907788988
     },
     {
-        "symbol": "UMAUSDT",
-        "price": "1.252000",
-        "time": 1749823563943
+        "symbol": "STORJUSDT",
+        "price": "0.2512",
+        "time": 1749907783823
     },
     {
-        "symbol": "LRCUSDT",
-        "price": "0.07619",
-        "time": 1749823564276
+        "symbol": "SLPUSDT",
+        "price": "0.0035150",
+        "time": 1715763640607
     },
     {
-        "symbol": "1000BONKUSDC",
-        "price": "0.0142740",
-        "time": 1749823571217
+        "symbol": "MOCAUSDT",
+        "price": "0.0776600",
+        "time": 1749907797048
     },
     {
-        "symbol": "1000CHEEMSUSDT",
-        "price": "0.0014083",
-        "time": 1749823569962
+        "symbol": "ASRUSDT",
+        "price": "2.036000",
+        "time": 1749907784909
     },
     {
-        "symbol": "UNIUSDT",
-        "price": "7.2220",
-        "time": 1749823570740
+        "symbol": "SFPUSDT",
+        "price": "0.4619",
+        "time": 1749907783823
     },
     {
-        "symbol": "1000LUNCUSDT",
-        "price": "0.0559000",
-        "time": 1749823565404
+        "symbol": "BANKUSDT",
+        "price": "0.0505750",
+        "time": 1749907782715
     },
     {
-        "symbol": "LINKUSDT",
-        "price": "13.203",
-        "time": 1749823570263
+        "symbol": "TRUUSDT",
+        "price": "0.0335200",
+        "time": 1749907771928
     },
     {
-        "symbol": "DEXEUSDT",
-        "price": "8.860000",
-        "time": 1749823565061
+        "symbol": "AUSDT",
+        "price": "0.5311700",
+        "time": 1749907796510
     },
     {
-        "symbol": "KAIAUSDT",
-        "price": "0.1557000",
-        "time": 1749823569833
+        "symbol": "AGTUSDT",
+        "price": "0.0178570",
+        "time": 1749907794125
     },
     {
-        "symbol": "MBOXUSDT",
-        "price": "0.0458200",
-        "time": 1749823570256
+        "symbol": "DEGOUSDT",
+        "price": "1.1169000",
+        "time": 1749907796968
     },
     {
-        "symbol": "XRPUSDT",
-        "price": "2.1358",
-        "time": 1749823570134
+        "symbol": "MUBARAKUSDT",
+        "price": "0.0345000",
+        "time": 1749907791899
     },
     {
-        "symbol": "JUPUSDT",
-        "price": "0.4020000",
-        "time": 1749823570124
+        "symbol": "HUMAUSDT",
+        "price": "0.0415480",
+        "time": 1749907796218
     },
     {
-        "symbol": "ILVUSDT",
-        "price": "11.54000",
-        "time": 1749823564178
+        "symbol": "COSUSDT",
+        "price": "0.0030510",
+        "time": 1749907784485
     },
     {
-        "symbol": "BIGTIMEUSDT",
-        "price": "0.0541300",
-        "time": 1749823565936
+        "symbol": "MANAUSDT",
+        "price": "0.2663",
+        "time": 1749907772651
     },
     {
-        "symbol": "RONINUSDT",
-        "price": "0.502600",
-        "time": 1749823566665
+        "symbol": "OMNIUSDT",
+        "price": "1.9810",
+        "time": 1749907771767
+    },
+    {
+        "symbol": "ZKUSDT",
+        "price": "0.0525700",
+        "time": 1749907784873
+    },
+    {
+        "symbol": "BNBUSDC",
+        "price": "649.510",
+        "time": 1749907771597
+    },
+    {
+        "symbol": "VIRTUALUSDT",
+        "price": "1.8276000",
+        "time": 1749907796387
+    },
+    {
+        "symbol": "CHILLGUYUSDT",
+        "price": "0.0510600",
+        "time": 1749907796448
     },
     {
         "symbol": "TROYUSDT",
@@ -1275,804 +265,209 @@
         "time": 1744621282100
     },
     {
-        "symbol": "CKBUSDT",
-        "price": "0.0036430",
-        "time": 1749823564316
+        "symbol": "SPXUSDT",
+        "price": "1.4538000",
+        "time": 1749907797033
     },
     {
-        "symbol": "KSMUSDT",
-        "price": "14.571",
-        "time": 1749823564676
+        "symbol": "CELOUSDT",
+        "price": "0.294",
+        "time": 1749907781032
     },
     {
-        "symbol": "MEWUSDT",
-        "price": "0.0027700",
-        "time": 1749823570128
+        "symbol": "VANAUSDT",
+        "price": "5.404000",
+        "time": 1749907796449
     },
     {
-        "symbol": "FLOWUSDT",
-        "price": "0.344",
-        "time": 1749823564184
+        "symbol": "DOTUSDT",
+        "price": "3.801",
+        "time": 1749907796880
     },
     {
-        "symbol": "MYROUSDT",
-        "price": "0.0190500",
-        "time": 1749823569000
+        "symbol": "1000FLOKIUSDT",
+        "price": "0.0789400",
+        "time": 1749907794931
     },
     {
-        "symbol": "STRKUSDT",
-        "price": "0.1178000",
-        "time": 1749823569320
+        "symbol": "AXSUSDT",
+        "price": "2.34400",
+        "time": 1749907795669
     },
     {
-        "symbol": "WAXPUSDT",
-        "price": "0.0203900",
-        "time": 1749823564681
+        "symbol": "OGNUSDT",
+        "price": "0.0516",
+        "time": 1749907719910
     },
     {
-        "symbol": "MOCAUSDT",
-        "price": "0.0752300",
-        "time": 1749823564089
+        "symbol": "PNUTUSDC",
+        "price": "0.2315700",
+        "time": 1749907797075
     },
     {
-        "symbol": "USTCUSDT",
-        "price": "0.0111790",
-        "time": 1749823567884
+        "symbol": "NXPCUSDT",
+        "price": "1.2611500",
+        "time": 1749907796093
     },
     {
-        "symbol": "ZKJUSDT",
-        "price": "1.996000",
-        "time": 1749823566802
+        "symbol": "NEIROUSDT",
+        "price": "0.00040510",
+        "time": 1749907796453
     },
     {
-        "symbol": "ARBUSDC",
-        "price": "0.335900",
-        "time": 1749823570197
-    },
-    {
-        "symbol": "VINEUSDT",
-        "price": "0.0303400",
-        "time": 1749823565665
-    },
-    {
-        "symbol": "BTCUSDC",
-        "price": "104607.9",
-        "time": 1749823570178
-    },
-    {
-        "symbol": "AUSDT",
-        "price": "0.5237200",
-        "time": 1749823568325
-    },
-    {
-        "symbol": "ASTRUSDT",
-        "price": "0.0247010",
-        "time": 1749823568085
-    },
-    {
-        "symbol": "BANUSDT",
-        "price": "0.0527300",
-        "time": 1749823563424
-    },
-    {
-        "symbol": "BEAMXUSDT",
-        "price": "0.0056680",
-        "time": 1749823571220
-    },
-    {
-        "symbol": "NKNUSDT",
-        "price": "0.02427",
-        "time": 1749823564723
-    },
-    {
-        "symbol": "TUSDT",
-        "price": "0.0139600",
-        "time": 1749823563436
-    },
-    {
-        "symbol": "TONUSDT",
-        "price": "2.9543000",
-        "time": 1749823571468
-    },
-    {
-        "symbol": "BRUSDT",
-        "price": "0.0438400",
-        "time": 1749823567488
-    },
-    {
-        "symbol": "SUSHIUSDT",
-        "price": "0.6044",
-        "time": 1749823566724
-    },
-    {
-        "symbol": "TWTUSDT",
-        "price": "0.769100",
-        "time": 1749823570116
-    },
-    {
-        "symbol": "API3USDT",
-        "price": "0.6537",
-        "time": 1749823565092
-    },
-    {
-        "symbol": "1000WHYUSDT",
-        "price": "0.0000340",
-        "time": 1749823562414
-    },
-    {
-        "symbol": "VANRYUSDT",
-        "price": "0.0288100",
-        "time": 1749823566333
-    },
-    {
-        "symbol": "1MBABYDOGEUSDT",
-        "price": "0.0012443",
-        "time": 1749823570274
-    },
-    {
-        "symbol": "TRBUSDT",
-        "price": "40.057",
-        "time": 1749823564294
-    },
-    {
-        "symbol": "WLDUSDT",
-        "price": "0.9642000",
-        "time": 1749823569443
-    },
-    {
-        "symbol": "HMSTRUSDT",
-        "price": "0.0008710",
-        "time": 1749823568024
-    },
-    {
-        "symbol": "ETHUSDC",
-        "price": "2534.20",
-        "time": 1749823569379
-    },
-    {
-        "symbol": "1000CATUSDT",
-        "price": "0.0060050",
-        "time": 1749823565792
-    },
-    {
-        "symbol": "SUNUSDT",
-        "price": "0.0181690",
-        "time": 1749823564800
-    },
-    {
-        "symbol": "DOGEUSDT",
-        "price": "0.174720",
-        "time": 1749823569150
-    },
-    {
-        "symbol": "CHILLGUYUSDT",
-        "price": "0.0502600",
-        "time": 1749823568212
-    },
-    {
-        "symbol": "REDUSDT",
-        "price": "0.2936000",
-        "time": 1749823569674
-    },
-    {
-        "symbol": "JASMYUSDT",
-        "price": "0.013000",
-        "time": 1749823570258
-    },
-    {
-        "symbol": "BATUSDT",
-        "price": "0.1235",
-        "time": 1749823563758
-    },
-    {
-        "symbol": "ONDOUSDT",
-        "price": "0.7740000",
-        "time": 1749823571405
-    },
-    {
-        "symbol": "1000PEPEUSDC",
-        "price": "0.0106681",
-        "time": 1749823566227
-    },
-    {
-        "symbol": "VTHOUSDT",
-        "price": "0.0019560",
-        "time": 1749823571552
-    },
-    {
-        "symbol": "RESOLVUSDT",
-        "price": "0.2437300",
-        "time": 1749823569216
-    },
-    {
-        "symbol": "CVCUSDT",
-        "price": "0.0936600",
-        "time": 1749823564182
-    },
-    {
-        "symbol": "QNTUSDT",
-        "price": "106.860000",
-        "time": 1749823565797
-    },
-    {
-        "symbol": "CHZUSDT",
-        "price": "0.03554",
-        "time": 1749823570310
-    },
-    {
-        "symbol": "ZRXUSDT",
-        "price": "0.2239",
-        "time": 1749823564152
-    },
-    {
-        "symbol": "SUIUSDC",
-        "price": "2.999160",
-        "time": 1749823567033
-    },
-    {
-        "symbol": "LQTYUSDT",
-        "price": "0.919900",
-        "time": 1749823565005
-    },
-    {
-        "symbol": "STMXUSDT",
-        "price": "0.00388",
-        "time": 1740128400824
-    },
-    {
-        "symbol": "RLCUSDT",
-        "price": "0.9363",
-        "time": 1749823563856
+        "symbol": "ANIMEUSDT",
+        "price": "0.0247400",
+        "time": 1749907796135
     },
     {
         "symbol": "B2USDT",
-        "price": "0.3324000",
-        "time": 1749823569509
+        "price": "0.3694000",
+        "time": 1749907796039
     },
     {
-        "symbol": "AGTUSDT",
-        "price": "0.0192750",
-        "time": 1749823560552
+        "symbol": "YFIUSDT",
+        "price": "5123.0",
+        "time": 1749907776490
     },
     {
-        "symbol": "PIPPINUSDT",
-        "price": "0.0154300",
-        "time": 1749823563461
-    },
-    {
-        "symbol": "OPUSDT",
-        "price": "0.5776000",
-        "time": 1749823570467
-    },
-    {
-        "symbol": "TOKENUSDT",
-        "price": "0.0146300",
-        "time": 1749823568605
-    },
-    {
-        "symbol": "FISUSDT",
-        "price": "0.0990500",
-        "time": 1749823571400
-    },
-    {
-        "symbol": "RUNEUSDT",
-        "price": "1.4710",
-        "time": 1749823569767
-    },
-    {
-        "symbol": "HIPPOUSDT",
-        "price": "0.0016830",
-        "time": 1749823571454
-    },
-    {
-        "symbol": "INITUSDT",
-        "price": "0.4735000",
-        "time": 1749823565510
-    },
-    {
-        "symbol": "POWRUSDT",
-        "price": "0.1526000",
-        "time": 1749823571411
-    },
-    {
-        "symbol": "RVNUSDT",
-        "price": "0.01939",
-        "time": 1749823570023
-    },
-    {
-        "symbol": "CTSIUSDT",
-        "price": "0.0567",
-        "time": 1749823567588
-    },
-    {
-        "symbol": "QUICKUSDT",
-        "price": "0.0242800",
-        "time": 1749823560315
-    },
-    {
-        "symbol": "1000PEPEUSDT",
-        "price": "0.0106613",
-        "time": 1749823566331
-    },
-    {
-        "symbol": "SLERFUSDT",
-        "price": "0.0696000",
-        "time": 1749823559939
-    },
-    {
-        "symbol": "SANDUSDT",
-        "price": "0.25840",
-        "time": 1749823567473
-    },
-    {
-        "symbol": "RPLUSDT",
-        "price": "5.8760000",
-        "time": 1749823565685
-    },
-    {
-        "symbol": "BTCUSDT",
-        "price": "104554.50",
-        "time": 1749823570840
-    },
-    {
-        "symbol": "PERPUSDT",
-        "price": "0.225100",
-        "time": 1749823564812
-    },
-    {
-        "symbol": "RADUSDT",
-        "price": "1.687400",
-        "time": 1715677232364
-    },
-    {
-        "symbol": "DODOXUSDT",
-        "price": "0.0393570",
-        "time": 1749823567809
-    },
-    {
-        "symbol": "FARTCOINUSDT",
-        "price": "1.1268000",
-        "time": 1749823570139
-    },
-    {
-        "symbol": "HAEDALUSDT",
-        "price": "0.0987670",
-        "time": 1749823569269
-    },
-    {
-        "symbol": "IOTXUSDT",
-        "price": "0.02174",
-        "time": 1749823569185
-    },
-    {
-        "symbol": "SEIUSDT",
-        "price": "0.1728000",
-        "time": 1749823565630
-    },
-    {
-        "symbol": "HIGHUSDT",
-        "price": "0.509500",
-        "time": 1749823570270
-    },
-    {
-        "symbol": "AWEUSDT",
-        "price": "0.0516650",
-        "time": 1749823570196
-    },
-    {
-        "symbol": "PLUMEUSDT",
-        "price": "0.0992000",
-        "time": 1749823566871
-    },
-    {
-        "symbol": "PYTHUSDT",
-        "price": "0.1053600",
-        "time": 1749823565755
-    },
-    {
-        "symbol": "ENJUSDT",
-        "price": "0.06556",
-        "time": 1749823564678
-    },
-    {
-        "symbol": "XVSUSDT",
-        "price": "5.926000",
-        "time": 1749823563754
-    },
-    {
-        "symbol": "1000XUSDT",
-        "price": "0.0577700",
-        "time": 1749823565113
-    },
-    {
-        "symbol": "JOEUSDT",
-        "price": "0.1468600",
-        "time": 1749823571398
-    },
-    {
-        "symbol": "KEYUSDT",
-        "price": "0.0025177",
-        "time": 1733216394800
-    },
-    {
-        "symbol": "ALPHAUSDT",
-        "price": "0.02121",
-        "time": 1749823569113
-    },
-    {
-        "symbol": "CELRUSDT",
-        "price": "0.00750",
-        "time": 1749823564952
-    },
-    {
-        "symbol": "AEROUSDT",
-        "price": "0.6258000",
-        "time": 1749823570390
-    },
-    {
-        "symbol": "ORDIUSDC",
-        "price": "7.546000",
-        "time": 1749823564724
-    },
-    {
-        "symbol": "LAUSDT",
-        "price": "0.845000",
-        "time": 1749823569326
-    },
-    {
-        "symbol": "DARUSDT",
-        "price": "0.1425",
-        "time": 1735203629798
-    },
-    {
-        "symbol": "BELUSDT",
-        "price": "0.25170",
-        "time": 1749823570426
-    },
-    {
-        "symbol": "NULSUSDT",
-        "price": "0.0313000",
-        "time": 1744621276136
-    },
-    {
-        "symbol": "SIGNUSDT",
-        "price": "0.0625600",
-        "time": 1749823566217
-    },
-    {
-        "symbol": "IDUSDT",
-        "price": "0.1609600",
-        "time": 1749823564680
-    },
-    {
-        "symbol": "KASUSDT",
-        "price": "0.0774400",
-        "time": 1749823566999
-    },
-    {
-        "symbol": "LDOUSDT",
-        "price": "0.801900",
-        "time": 1749823570492
-    },
-    {
-        "symbol": "BLZUSDT",
-        "price": "0.06836",
-        "time": 1734944391108
-    },
-    {
-        "symbol": "WIFUSDC",
-        "price": "0.8041000",
-        "time": 1749823570167
-    },
-    {
-        "symbol": "GRASSUSDT",
-        "price": "1.5877000",
-        "time": 1749823569385
-    },
-    {
-        "symbol": "XCNUSDT",
-        "price": "0.0132500",
-        "time": 1749823561274
-    },
-    {
-        "symbol": "ZEREBROUSDT",
-        "price": "0.0286800",
-        "time": 1749823568721
-    },
-    {
-        "symbol": "SOONUSDT",
-        "price": "0.2159200",
-        "time": 1749823567121
-    },
-    {
-        "symbol": "BSWUSDT",
-        "price": "0.0217900",
-        "time": 1749823563712
-    },
-    {
-        "symbol": "TRXUSDT",
-        "price": "0.27224",
-        "time": 1749823566174
-    },
-    {
-        "symbol": "JSTUSDT",
-        "price": "0.0324690",
-        "time": 1749823564616
-    },
-    {
-        "symbol": "GMTUSDT",
-        "price": "0.04725",
-        "time": 1749823569742
-    },
-    {
-        "symbol": "NEOUSDT",
-        "price": "5.538",
-        "time": 1749823568141
-    },
-    {
-        "symbol": "OMNIUSDT",
-        "price": "1.8960",
-        "time": 1749823565640
-    },
-    {
-        "symbol": "TAOUSDT",
-        "price": "365.05",
-        "time": 1749823570331
-    },
-    {
-        "symbol": "BTCUSDT_250627",
-        "price": "104682.8",
-        "time": 1749823571196
-    },
-    {
-        "symbol": "HIFIUSDT",
-        "price": "0.0661000",
-        "time": 1749823569802
-    },
-    {
-        "symbol": "ZENUSDT",
-        "price": "8.708",
-        "time": 1749823571075
-    },
-    {
-        "symbol": "INJUSDT",
-        "price": "11.467000",
-        "time": 1749823568975
-    },
-    {
-        "symbol": "GUSDT",
-        "price": "0.0120900",
-        "time": 1749823564955
-    },
-    {
-        "symbol": "ANKRUSDT",
-        "price": "0.015020",
-        "time": 1749823568032
-    },
-    {
-        "symbol": "GPSUSDT",
-        "price": "0.0222900",
-        "time": 1749823568615
-    },
-    {
-        "symbol": "PUFFERUSDT",
-        "price": "0.1852600",
-        "time": 1749823567903
-    },
-    {
-        "symbol": "BOMEUSDT",
-        "price": "0.0015630",
-        "time": 1749823567394
-    },
-    {
-        "symbol": "HIVEUSDT",
-        "price": "0.2126700",
-        "time": 1749823563562
+        "symbol": "MKRUSDT",
+        "price": "2092.70",
+        "time": 1749907795769
     },
     {
         "symbol": "1000SHIBUSDT",
-        "price": "0.011761",
-        "time": 1749823569881
+        "price": "0.012190",
+        "time": 1749907797077
     },
     {
-        "symbol": "BANKUSDT",
-        "price": "0.0498870",
-        "time": 1749823564695
+        "symbol": "BIOUSDT",
+        "price": "0.0560000",
+        "time": 1749907796817
     },
     {
-        "symbol": "FORMUSDT",
-        "price": "2.686300",
-        "time": 1749823565605
+        "symbol": "RUNEUSDT",
+        "price": "1.4880",
+        "time": 1749907788083
     },
     {
-        "symbol": "COSUSDT",
-        "price": "0.0029480",
-        "time": 1749823565053
+        "symbol": "XVSUSDT",
+        "price": "6.028000",
+        "time": 1749907771855
     },
     {
-        "symbol": "IOSTUSDT",
-        "price": "0.003467",
-        "time": 1749823570160
+        "symbol": "ANKRUSDT",
+        "price": "0.015410",
+        "time": 1749907773526
     },
     {
-        "symbol": "BANANAUSDT",
-        "price": "17.9320000",
-        "time": 1749823564671
+        "symbol": "CTSIUSDT",
+        "price": "0.0592",
+        "time": 1749907777759
     },
     {
-        "symbol": "IOUSDT",
-        "price": "0.6633000",
-        "time": 1749823570123
+        "symbol": "1000CHEEMSUSDT",
+        "price": "0.0014723",
+        "time": 1749907795980
     },
     {
-        "symbol": "AUCTIONUSDT",
-        "price": "9.271000",
-        "time": 1749823568449
+        "symbol": "POLUSDT",
+        "price": "0.2008600",
+        "time": 1749907793751
     },
     {
-        "symbol": "PAXGUSDT",
-        "price": "3457.2400",
-        "time": 1749823569241
-    },
-    {
-        "symbol": "SONICUSDT",
-        "price": "0.2122000",
-        "time": 1749823564277
-    },
-    {
-        "symbol": "DEFIUSDT",
-        "price": "661.4",
-        "time": 1749823564724
-    },
-    {
-        "symbol": "VETUSDT",
-        "price": "0.022125",
-        "time": 1749823570129
-    },
-    {
-        "symbol": "SIRENUSDT",
-        "price": "0.1466500",
-        "time": 1749823567595
-    },
-    {
-        "symbol": "ENAUSDC",
-        "price": "0.2918000",
-        "time": 1749823567399
-    },
-    {
-        "symbol": "GALAUSDT",
-        "price": "0.01469",
-        "time": 1749823564295
-    },
-    {
-        "symbol": "LSKUSDT",
-        "price": "0.396500",
-        "time": 1749823570132
-    },
-    {
-        "symbol": "BDXNUSDT",
-        "price": "0.0312200",
-        "time": 1749823569737
-    },
-    {
-        "symbol": "HOTUSDT",
-        "price": "0.000877",
-        "time": 1749823567439
-    },
-    {
-        "symbol": "ICXUSDT",
-        "price": "0.1389",
-        "time": 1749823564292
-    },
-    {
-        "symbol": "ATHUSDT",
-        "price": "0.0405300",
-        "time": 1749823570247
-    },
-    {
-        "symbol": "IDEXUSDT",
-        "price": "0.0561000",
-        "time": 1715763623015
-    },
-    {
-        "symbol": "BALUSDT",
-        "price": "0.829",
-        "time": 1744621265813
-    },
-    {
-        "symbol": "ACXUSDT",
-        "price": "0.1559000",
-        "time": 1749823565324
-    },
-    {
-        "symbol": "GRTUSDT",
-        "price": "0.08553",
-        "time": 1749823570134
-    },
-    {
-        "symbol": "MUBARAKUSDT",
-        "price": "0.0319700",
-        "time": 1749823569314
-    },
-    {
-        "symbol": "STEEMUSDT",
-        "price": "0.125030",
-        "time": 1749823565772
+        "symbol": "APEUSDT",
+        "price": "0.6928",
+        "time": 1749907794494
     },
     {
         "symbol": "NTRNUSDT",
-        "price": "0.091800",
-        "time": 1749823569410
+        "price": "0.097700",
+        "time": 1749907781101
     },
     {
-        "symbol": "DEEPUSDT",
-        "price": "0.1386100",
-        "time": 1749823567653
+        "symbol": "TURBOUSDT",
+        "price": "0.0037649",
+        "time": 1749907796449
     },
     {
-        "symbol": "HOMEUSDT",
-        "price": "0.0244820",
-        "time": 1749823567126
+        "symbol": "ENJUSDT",
+        "price": "0.06778",
+        "time": 1749907786629
     },
     {
-        "symbol": "ALICEUSDT",
-        "price": "0.395",
-        "time": 1749823569817
+        "symbol": "LOOMUSDT",
+        "price": "0.0811200",
+        "time": 1733734774400
     },
     {
-        "symbol": "SAGAUSDT",
-        "price": "0.2455000",
-        "time": 1749823568590
+        "symbol": "AIXBTUSDT",
+        "price": "0.1676500",
+        "time": 1749907797306
     },
     {
-        "symbol": "CTKUSDT",
-        "price": "0.2420000",
-        "time": 1749823562476
+        "symbol": "GHSTUSDT",
+        "price": "0.3792000",
+        "time": 1749907774514
     },
     {
-        "symbol": "1000SHIBUSDC",
-        "price": "0.0117680",
-        "time": 1749823566246
+        "symbol": "AVAXUSDC",
+        "price": "19.150000",
+        "time": 1749907785465
     },
     {
-        "symbol": "B3USDT",
-        "price": "0.0030890",
-        "time": 1749823568085
+        "symbol": "SXPUSDT",
+        "price": "0.1684",
+        "time": 1749907785159
     },
     {
-        "symbol": "MOVEUSDT",
-        "price": "0.1531000",
-        "time": 1749823566988
+        "symbol": "ETHUSDC",
+        "price": "2538.30",
+        "time": 1749907797060
     },
     {
-        "symbol": "CFXUSDT",
-        "price": "0.0729700",
-        "time": 1749823569063
+        "symbol": "LINAUSDT",
+        "price": "0.000742",
+        "time": 1743066067031
     },
     {
-        "symbol": "XLMUSDT",
-        "price": "0.25789",
-        "time": 1749823569827
+        "symbol": "BTCUSDC",
+        "price": "104936.0",
+        "time": 1749907797848
     },
     {
-        "symbol": "AEVOUSDT",
-        "price": "0.0841000",
-        "time": 1749823564926
+        "symbol": "1000PEPEUSDT",
+        "price": "0.0111406",
+        "time": 1749907797100
     },
     {
-        "symbol": "HUMAUSDT",
-        "price": "0.0380800",
-        "time": 1749823565253
+        "symbol": "AWEUSDT",
+        "price": "0.0516000",
+        "time": 1749907785522
     },
     {
-        "symbol": "BROCCOLIF3BUSDT",
-        "price": "0.0097760",
-        "time": 1749823564298
+        "symbol": "CATIUSDT",
+        "price": "0.0850000",
+        "time": 1749907779736
     },
     {
-        "symbol": "BBUSDT",
-        "price": "0.0940200",
-        "time": 1749823569140
+        "symbol": "SNTUSDT",
+        "price": "0.0366600",
+        "time": 1715590784992
+    },
+    {
+        "symbol": "MANTAUSDT",
+        "price": "0.2141000",
+        "time": 1749907796452
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "price": "0.1036",
+        "time": 1749907794095
+    },
+    {
+        "symbol": "SOLVUSDT",
+        "price": "0.0456500",
+        "time": 1749907796450
     },
     {
         "symbol": "STRAXUSDT",
@@ -2080,249 +475,159 @@
         "time": 1710493192492
     },
     {
-        "symbol": "ZKUSDT",
-        "price": "0.0489700",
-        "time": 1749823568744
+        "symbol": "ARCUSDT",
+        "price": "0.0308500",
+        "time": 1749907796449
     },
     {
-        "symbol": "BNBUSDC",
-        "price": "651.520",
-        "time": 1749823565681
+        "symbol": "PENGUUSDT",
+        "price": "0.0096060",
+        "time": 1749907796448
     },
     {
-        "symbol": "KERNELUSDT",
-        "price": "0.1108000",
-        "time": 1749823571219
+        "symbol": "BALUSDT",
+        "price": "0.829",
+        "time": 1744621265813
     },
     {
-        "symbol": "MAVIAUSDT",
-        "price": "0.1505000",
-        "time": 1749823564659
+        "symbol": "PLUMEUSDT",
+        "price": "0.1010000",
+        "time": 1749907749354
     },
     {
-        "symbol": "REEFUSDT",
-        "price": "0.000880",
-        "time": 1737536426864
+        "symbol": "LPTUSDT",
+        "price": "6.999",
+        "time": 1749907797740
     },
     {
-        "symbol": "GLMUSDT",
-        "price": "0.2227500",
-        "time": 1749823564820
+        "symbol": "MTLUSDT",
+        "price": "0.7057",
+        "time": 1749907785291
     },
     {
-        "symbol": "1000000BOBUSDT",
-        "price": "0.0505700",
-        "time": 1749823569767
+        "symbol": "CTKUSDT",
+        "price": "0.2495000",
+        "time": 1749907786092
     },
     {
-        "symbol": "PUNDIXUSDT",
-        "price": "0.2855000",
-        "time": 1749823567990
+        "symbol": "HEIUSDT",
+        "price": "0.339300",
+        "time": 1749907792297
     },
     {
-        "symbol": "EPTUSDT",
-        "price": "0.0059520",
-        "time": 1749823564464
+        "symbol": "IDEXUSDT",
+        "price": "0.0561000",
+        "time": 1715763623015
     },
     {
-        "symbol": "USDCUSDT",
-        "price": "0.9990000",
-        "time": 1749823562150
+        "symbol": "INJUSDT",
+        "price": "11.736000",
+        "time": 1749907796449
     },
     {
-        "symbol": "LOKAUSDT",
-        "price": "0.0488200",
-        "time": 1749823564688
+        "symbol": "SKATEUSDT",
+        "price": "0.0387400",
+        "time": 1749907795388
     },
     {
-        "symbol": "HBARUSDC",
-        "price": "0.1542200",
-        "time": 1749823565090
+        "symbol": "ZKJUSDT",
+        "price": "1.963000",
+        "time": 1749907797335
     },
     {
-        "symbol": "VVVUSDT",
-        "price": "3.456000",
-        "time": 1749823566417
+        "symbol": "EPICUSDT",
+        "price": "1.053400",
+        "time": 1749907792508
     },
     {
-        "symbol": "APTUSDT",
-        "price": "4.38790",
-        "time": 1749823569492
+        "symbol": "VTHOUSDT",
+        "price": "0.0020070",
+        "time": 1749907791282
     },
     {
-        "symbol": "XMRUSDT",
-        "price": "310.08",
-        "time": 1749823570788
+        "symbol": "ONDOUSDT",
+        "price": "0.7933000",
+        "time": 1749907797061
     },
     {
-        "symbol": "BONDUSDT",
-        "price": "1.069000",
-        "time": 1734339590868
+        "symbol": "BSWUSDT",
+        "price": "0.0228200",
+        "time": 1749907792019
     },
     {
-        "symbol": "SPELLUSDT",
-        "price": "0.0004642",
-        "time": 1749823568444
+        "symbol": "LITUSDT",
+        "price": "0.592",
+        "time": 1738313967323
     },
     {
-        "symbol": "HBARUSDT",
-        "price": "0.15410",
-        "time": 1749823571205
+        "symbol": "ETHFIUSDC",
+        "price": "1.0936000",
+        "time": 1749907796472
     },
     {
-        "symbol": "AAVEUSDT",
-        "price": "279.810",
-        "time": 1749823566273
+        "symbol": "NKNUSDT",
+        "price": "0.02553",
+        "time": 1749907791668
     },
     {
-        "symbol": "COWUSDT",
-        "price": "0.3371000",
-        "time": 1749823567773
+        "symbol": "PEOPLEUSDT",
+        "price": "0.01902",
+        "time": 1749907794723
     },
     {
-        "symbol": "ASRUSDT",
-        "price": "2.107000",
-        "time": 1749823563416
+        "symbol": "LDOUSDT",
+        "price": "0.813600",
+        "time": 1749907796092
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "price": "0.128480",
+        "time": 1749907795163
+    },
+    {
+        "symbol": "SXTUSDT",
+        "price": "0.0800600",
+        "time": 1749907796457
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "price": "0.0250900",
+        "time": 1749907792743
+    },
+    {
+        "symbol": "KDAUSDT",
+        "price": "0.4208000",
+        "time": 1749907786099
+    },
+    {
+        "symbol": "PORT3USDT",
+        "price": "0.0483600",
+        "time": 1749907779833
+    },
+    {
+        "symbol": "ONEUSDT",
+        "price": "0.01051",
+        "time": 1749907796560
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "price": "0.117700",
+        "time": 1749907797390
+    },
+    {
+        "symbol": "CETUSUSDT",
+        "price": "0.1015600",
+        "time": 1749907796462
+    },
+    {
+        "symbol": "CFXUSDT",
+        "price": "0.0750800",
+        "time": 1749907797112
     },
     {
         "symbol": "DOODUSDT",
-        "price": "0.0025141",
-        "time": 1749823564683
-    },
-    {
-        "symbol": "MEUSDT",
-        "price": "0.7875000",
-        "time": 1749823569471
-    },
-    {
-        "symbol": "AERGOUSDT",
-        "price": "0.1072200",
-        "time": 1749823569846
-    },
-    {
-        "symbol": "IMXUSDT",
-        "price": "0.4481",
-        "time": 1749823566242
-    },
-    {
-        "symbol": "OXTUSDT",
-        "price": "0.0536800",
-        "time": 1749823568465
-    },
-    {
-        "symbol": "AIUSDT",
-        "price": "0.121040",
-        "time": 1749823564592
-    },
-    {
-        "symbol": "STPTUSDT",
-        "price": "0.0530600",
-        "time": 1715590796873
-    },
-    {
-        "symbol": "SYNUSDT",
-        "price": "0.1358000",
-        "time": 1749823564661
-    },
-    {
-        "symbol": "1000BONKUSDT",
-        "price": "0.0142700",
-        "time": 1749823570138
-    },
-    {
-        "symbol": "SUPERUSDT",
-        "price": "0.6165000",
-        "time": 1749823564682
-    },
-    {
-        "symbol": "TUTUSDT",
-        "price": "0.0281800",
-        "time": 1749823567509
-    },
-    {
-        "symbol": "ORDIUSDT",
-        "price": "7.539000",
-        "time": 1749823566518
-    },
-    {
-        "symbol": "FLUXUSDT",
-        "price": "0.1962000",
-        "time": 1749823566401
-    },
-    {
-        "symbol": "JTOUSDT",
-        "price": "1.876800",
-        "time": 1749823570133
-    },
-    {
-        "symbol": "ARKUSDT",
-        "price": "0.3550000",
-        "time": 1749823565152
-    },
-    {
-        "symbol": "BCHUSDC",
-        "price": "418.00",
-        "time": 1749823564298
-    },
-    {
-        "symbol": "PNUTUSDC",
-        "price": "0.2190400",
-        "time": 1749823566239
-    },
-    {
-        "symbol": "AI16ZUSDT",
-        "price": "0.1652000",
-        "time": 1749823568747
-    },
-    {
-        "symbol": "SKLUSDT",
-        "price": "0.01871",
-        "time": 1749823564433
-    },
-    {
-        "symbol": "COOKIEUSDT",
-        "price": "0.1925000",
-        "time": 1749823569348
-    },
-    {
-        "symbol": "TURBOUSDT",
-        "price": "0.0035928",
-        "time": 1749823570259
-    },
-    {
-        "symbol": "MKRUSDT",
-        "price": "1873.80",
-        "time": 1749823566239
-    },
-    {
-        "symbol": "ALPINEUSDT",
-        "price": "0.692000",
-        "time": 1749823561925
-    },
-    {
-        "symbol": "XAIUSDT",
-        "price": "0.0567000",
-        "time": 1749823570121
-    },
-    {
-        "symbol": "PIXELUSDT",
-        "price": "0.0371200",
-        "time": 1749823571201
-    },
-    {
-        "symbol": "SOPHUSDT",
-        "price": "0.0434350",
-        "time": 1749823571130
-    },
-    {
-        "symbol": "SUSDT",
-        "price": "0.3204000",
-        "time": 1749823568012
-    },
-    {
-        "symbol": "SKYAIUSDT",
-        "price": "0.0307500",
-        "time": 1749823561436
+        "price": "0.0026236",
+        "time": 1749907797070
     },
     {
         "symbol": "GLMRUSDT",
@@ -2330,74 +635,1354 @@
         "time": 1715763618575
     },
     {
-        "symbol": "BROCCOLI714USDT",
-        "price": "0.0214100",
-        "time": 1749823571469
+        "symbol": "GLMUSDT",
+        "price": "0.2284300",
+        "time": 1749907796855
     },
     {
-        "symbol": "HEIUSDT",
-        "price": "0.306800",
-        "time": 1749823568863
+        "symbol": "TIAUSDT",
+        "price": "1.8396000",
+        "time": 1749907797075
     },
     {
-        "symbol": "COTIUSDT",
-        "price": "0.05021",
-        "time": 1749823568802
+        "symbol": "STMXUSDT",
+        "price": "0.00388",
+        "time": 1740128400824
+    },
+    {
+        "symbol": "DEFIUSDT",
+        "price": "674.9",
+        "time": 1749907780427
+    },
+    {
+        "symbol": "STPTUSDT",
+        "price": "0.0530600",
+        "time": 1715590796873
+    },
+    {
+        "symbol": "DGBUSDT",
+        "price": "0.01922",
+        "time": 1711962006671
+    },
+    {
+        "symbol": "INITUSDT",
+        "price": "0.5490000",
+        "time": 1749907796621
+    },
+    {
+        "symbol": "VETUSDT",
+        "price": "0.022213",
+        "time": 1749907780930
+    },
+    {
+        "symbol": "ORDIUSDC",
+        "price": "8.039000",
+        "time": 1749907797078
+    },
+    {
+        "symbol": "GUNUSDT",
+        "price": "0.0281900",
+        "time": 1749907796852
+    },
+    {
+        "symbol": "STRKUSDT",
+        "price": "0.1203000",
+        "time": 1749907795310
+    },
+    {
+        "symbol": "DOGEUSDC",
+        "price": "0.177830",
+        "time": 1749907797076
+    },
+    {
+        "symbol": "GUSDT",
+        "price": "0.0122900",
+        "time": 1749907695821
+    },
+    {
+        "symbol": "UMAUSDT",
+        "price": "1.268000",
+        "time": 1749907796514
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "price": "0.0263600",
+        "time": 1749907797081
+    },
+    {
+        "symbol": "CGPTUSDT",
+        "price": "0.0923800",
+        "time": 1749907797033
+    },
+    {
+        "symbol": "BRETTUSDT",
+        "price": "0.0449200",
+        "time": 1749907796448
+    },
+    {
+        "symbol": "GTCUSDT",
+        "price": "0.246",
+        "time": 1749907780831
+    },
+    {
+        "symbol": "GALAUSDT",
+        "price": "0.01517",
+        "time": 1749907797547
+    },
+    {
+        "symbol": "ARUSDT",
+        "price": "6.133",
+        "time": 1749907794874
+    },
+    {
+        "symbol": "PUNDIXUSDT",
+        "price": "0.2970000",
+        "time": 1749907796947
+    },
+    {
+        "symbol": "FISUSDT",
+        "price": "0.1018600",
+        "time": 1749907797332
+    },
+    {
+        "symbol": "TIAUSDC",
+        "price": "1.8396000",
+        "time": 1749907786123
+    },
+    {
+        "symbol": "CYBERUSDT",
+        "price": "1.235000",
+        "time": 1749907785826
+    },
+    {
+        "symbol": "WLDUSDC",
+        "price": "0.9890900",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "RADUSDT",
+        "price": "1.687400",
+        "time": 1715677232364
+    },
+    {
+        "symbol": "DEEPUSDT",
+        "price": "0.1398200",
+        "time": 1749907797056
+    },
+    {
+        "symbol": "LAYERUSDT",
+        "price": "0.713300",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "OPUSDT",
+        "price": "0.6020000",
+        "time": 1749907796547
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "price": "3457.3800",
+        "time": 1749907795632
+    },
+    {
+        "symbol": "AVAAIUSDT",
+        "price": "0.0292400",
+        "time": 1749907796239
+    },
+    {
+        "symbol": "SOLUSDC",
+        "price": "145.5300",
+        "time": 1749907796508
+    },
+    {
+        "symbol": "SWARMSUSDT",
+        "price": "0.0206000",
+        "time": 1749907782412
+    },
+    {
+        "symbol": "TRUMPUSDC",
+        "price": "10.471000",
+        "time": 1749907796202
+    },
+    {
+        "symbol": "GMTUSDT",
+        "price": "0.04803",
+        "time": 1749907786106
+    },
+    {
+        "symbol": "1000WHYUSDT",
+        "price": "0.0000348",
+        "time": 1749907795200
+    },
+    {
+        "symbol": "AVAUSDT",
+        "price": "0.5419000",
+        "time": 1749907781626
+    },
+    {
+        "symbol": "CHRUSDT",
+        "price": "0.0792",
+        "time": 1749907781024
+    },
+    {
+        "symbol": "NOTUSDT",
+        "price": "0.0021080",
+        "time": 1749907796542
+    },
+    {
+        "symbol": "HYPEUSDT",
+        "price": "41.17200",
+        "time": 1749907797503
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "price": "0.05433",
+        "time": 1749907789070
+    },
+    {
+        "symbol": "ONGUSDT",
+        "price": "0.1730300",
+        "time": 1749907789389
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "price": "0.0710000",
+        "time": 1749907796342
+    },
+    {
+        "symbol": "XRPUSDT",
+        "price": "2.1633",
+        "time": 1749907796833
+    },
+    {
+        "symbol": "KNCUSDT",
+        "price": "0.32770",
+        "time": 1749907792020
+    },
+    {
+        "symbol": "TUTUSDT",
+        "price": "0.0302700",
+        "time": 1749907780788
     },
     {
         "symbol": "SNXUSDT",
-        "price": "0.595",
-        "time": 1749823570931
+        "price": "0.611",
+        "time": 1749907797308
     },
     {
-        "symbol": "AGLDUSDT",
-        "price": "0.7249000",
-        "time": 1749823571266
+        "symbol": "ICPUSDT",
+        "price": "5.637000",
+        "time": 1749907793899
     },
     {
-        "symbol": "ETHFIUSDT",
-        "price": "1.0578000",
-        "time": 1749823564937
+        "symbol": "FUNUSDT",
+        "price": "0.0038100",
+        "time": 1749907796303
     },
     {
-        "symbol": "BANDUSDT",
-        "price": "0.6021",
-        "time": 1749823564659
+        "symbol": "MELANIAUSDT",
+        "price": "0.273200",
+        "time": 1749907796219
     },
     {
-        "symbol": "DYMUSDT",
-        "price": "0.252700",
-        "time": 1749823564195
-    },
-    {
-        "symbol": "OBOLUSDT",
-        "price": "0.1123900",
-        "time": 1749823567931
+        "symbol": "OGUSDT",
+        "price": "4.258000",
+        "time": 1749907790564
     },
     {
         "symbol": "PUMPBTCUSDT",
-        "price": "0.0465200",
-        "time": 1749823569316
+        "price": "0.0483200",
+        "time": 1749907794341
     },
     {
-        "symbol": "TSTUSDT",
-        "price": "0.0424600",
-        "time": 1749823568972
+        "symbol": "ATHUSDT",
+        "price": "0.0407100",
+        "time": 1749907782666
+    },
+    {
+        "symbol": "ADAUSDT",
+        "price": "0.63560",
+        "time": 1749907793625
     },
     {
         "symbol": "RDNTUSDT",
-        "price": "0.0209100",
-        "time": 1749823568214
+        "price": "0.0218300",
+        "time": 1749907777777
     },
     {
-        "symbol": "TRUUSDT",
-        "price": "0.0321900",
-        "time": 1749823564672
+        "symbol": "BANANAUSDT",
+        "price": "18.2960000",
+        "time": 1749907796444
     },
     {
-        "symbol": "GHSTUSDT",
-        "price": "0.3613000",
-        "time": 1749823564634
+        "symbol": "WLDUSDT",
+        "price": "0.9890000",
+        "time": 1749907797076
+    },
+    {
+        "symbol": "1000000BOBUSDT",
+        "price": "0.0640400",
+        "time": 1749907797174
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "price": "0.401",
+        "time": 1749907794548
+    },
+    {
+        "symbol": "ETCUSDT",
+        "price": "16.781",
+        "time": 1749907788281
+    },
+    {
+        "symbol": "SOONUSDT",
+        "price": "0.2160700",
+        "time": 1749907796481
+    },
+    {
+        "symbol": "BTCUSDT",
+        "price": "104879.20",
+        "time": 1749907797468
+    },
+    {
+        "symbol": "EDUUSDT",
+        "price": "0.1369000",
+        "time": 1749907796863
+    },
+    {
+        "symbol": "DUSDT",
+        "price": "0.0321700",
+        "time": 1749907797098
+    },
+    {
+        "symbol": "AXLUSDT",
+        "price": "0.4267000",
+        "time": 1749907796135
+    },
+    {
+        "symbol": "VINEUSDT",
+        "price": "0.0317700",
+        "time": 1749907785478
+    },
+    {
+        "symbol": "BTCDOMUSDT",
+        "price": "5333.1",
+        "time": 1749907784826
+    },
+    {
+        "symbol": "RENUSDT",
+        "price": "0.04800",
+        "time": 1733216405428
+    },
+    {
+        "symbol": "OMUSDT",
+        "price": "0.2772100",
+        "time": 1749907796613
+    },
+    {
+        "symbol": "GASUSDT",
+        "price": "3.029000",
+        "time": 1749907796501
+    },
+    {
+        "symbol": "TNSRUSDT",
+        "price": "0.1170000",
+        "time": 1749907795241
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "price": "0.7490000",
+        "time": 1749907780650
+    },
+    {
+        "symbol": "SQDUSDT",
+        "price": "0.2356800",
+        "time": 1749907786241
+    },
+    {
+        "symbol": "APTUSDT",
+        "price": "4.53000",
+        "time": 1749907797077
+    },
+    {
+        "symbol": "MERLUSDT",
+        "price": "0.0976300",
+        "time": 1749907797201
+    },
+    {
+        "symbol": "BANUSDT",
+        "price": "0.0565400",
+        "time": 1749907768989
+    },
+    {
+        "symbol": "SYNUSDT",
+        "price": "0.1356000",
+        "time": 1749907790746
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "price": "0.531500",
+        "time": 1749907797073
+    },
+    {
+        "symbol": "KAIAUSDT",
+        "price": "0.1493000",
+        "time": 1749907795158
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "price": "0.01954",
+        "time": 1749907784280
+    },
+    {
+        "symbol": "TAIKOUSDT",
+        "price": "0.4569000",
+        "time": 1749907797888
+    },
+    {
+        "symbol": "AI16ZUSDT",
+        "price": "0.1759000",
+        "time": 1749907797078
+    },
+    {
+        "symbol": "ZILUSDT",
+        "price": "0.01104",
+        "time": 1749907793305
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "price": "0.104000",
+        "time": 1749907776214
+    },
+    {
+        "symbol": "FHEUSDT",
+        "price": "0.0755500",
+        "time": 1749907796355
+    },
+    {
+        "symbol": "BNTUSDT",
+        "price": "0.5969200",
+        "time": 1749907797049
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "price": "0.0004872",
+        "time": 1749907782677
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "price": "0.2306",
+        "time": 1749907771610
+    },
+    {
+        "symbol": "WOOUSDT",
+        "price": "0.07028",
+        "time": 1749907797051
+    },
+    {
+        "symbol": "1000000MOGUSDT",
+        "price": "0.9097000",
+        "time": 1749907796471
+    },
+    {
+        "symbol": "ARBUSDT",
+        "price": "0.341300",
+        "time": 1749907793502
+    },
+    {
+        "symbol": "ZECUSDT",
+        "price": "45.11",
+        "time": 1749907796388
+    },
+    {
+        "symbol": "RPLUSDT",
+        "price": "6.0850000",
+        "time": 1749907796722
+    },
+    {
+        "symbol": "MDTUSDT",
+        "price": "0.0633100",
+        "time": 1715850027442
+    },
+    {
+        "symbol": "BSVUSDT",
+        "price": "31.48000",
+        "time": 1749907797447
+    },
+    {
+        "symbol": "SEIUSDT",
+        "price": "0.1777000",
+        "time": 1749907796697
+    },
+    {
+        "symbol": "MAVUSDT",
+        "price": "0.0502400",
+        "time": 1749907784386
+    },
+    {
+        "symbol": "KMNOUSDT",
+        "price": "0.0629100",
+        "time": 1749907797073
+    },
+    {
+        "symbol": "1000BONKUSDT",
+        "price": "0.0149430",
+        "time": 1749907796459
+    },
+    {
+        "symbol": "WIFUSDC",
+        "price": "0.8547000",
+        "time": 1749907797121
+    },
+    {
+        "symbol": "ACTUSDT",
+        "price": "0.0465900",
+        "time": 1749907781703
+    },
+    {
+        "symbol": "SANDUSDT",
+        "price": "0.26588",
+        "time": 1749907786532
+    },
+    {
+        "symbol": "DOLOUSDT",
+        "price": "0.0342700",
+        "time": 1749907796823
+    },
+    {
+        "symbol": "SWELLUSDT",
+        "price": "0.0081500",
+        "time": 1749907614230
+    },
+    {
+        "symbol": "SUNUSDT",
+        "price": "0.0179640",
+        "time": 1749907786528
+    },
+    {
+        "symbol": "EIGENUSDT",
+        "price": "1.2677000",
+        "time": 1749907796457
+    },
+    {
+        "symbol": "METISUSDT",
+        "price": "16.4800",
+        "time": 1749907783959
+    },
+    {
+        "symbol": "BELUSDT",
+        "price": "0.25940",
+        "time": 1749907795856
+    },
+    {
+        "symbol": "B3USDT",
+        "price": "0.0030610",
+        "time": 1749907797150
+    },
+    {
+        "symbol": "NEIROETHUSDT",
+        "price": "0.0923300",
+        "time": 1749907794808
+    },
+    {
+        "symbol": "COMPUSDT",
+        "price": "52.97",
+        "time": 1749907795355
+    },
+    {
+        "symbol": "ACEUSDT",
+        "price": "0.553400",
+        "time": 1749907771838
+    },
+    {
+        "symbol": "RAREUSDT",
+        "price": "0.0534600",
+        "time": 1749907794481
+    },
+    {
+        "symbol": "ORBSUSDT",
+        "price": "0.0351570",
+        "time": 1733734785865
+    },
+    {
+        "symbol": "COWUSDT",
+        "price": "0.3487000",
+        "time": 1749907797073
+    },
+    {
+        "symbol": "SOPHUSDT",
+        "price": "0.0469590",
+        "time": 1749907797226
+    },
+    {
+        "symbol": "AERGOUSDT",
+        "price": "0.1105400",
+        "time": 1749907795098
+    },
+    {
+        "symbol": "HAEDALUSDT",
+        "price": "0.1036660",
+        "time": 1749907797083
+    },
+    {
+        "symbol": "BCHUSDT",
+        "price": "435.49",
+        "time": 1749907796567
+    },
+    {
+        "symbol": "API3USDT",
+        "price": "0.6778",
+        "time": 1749907785941
+    },
+    {
+        "symbol": "KASUSDT",
+        "price": "0.0757300",
+        "time": 1749907796727
+    },
+    {
+        "symbol": "GPSUSDT",
+        "price": "0.0222100",
+        "time": 1749907760004
+    },
+    {
+        "symbol": "BANANAS31USDT",
+        "price": "0.0059430",
+        "time": 1749907758847
+    },
+    {
+        "symbol": "1000XUSDT",
+        "price": "0.0603300",
+        "time": 1749907792869
+    },
+    {
+        "symbol": "WALUSDT",
+        "price": "0.4672000",
+        "time": 1749907793115
+    },
+    {
+        "symbol": "1000LUNCUSDT",
+        "price": "0.0608300",
+        "time": 1749907789101
+    },
+    {
+        "symbol": "AMBUSDT",
+        "price": "0.0011880",
+        "time": 1740128395028
+    },
+    {
+        "symbol": "HBARUSDC",
+        "price": "0.1588200",
+        "time": 1749907771479
+    },
+    {
+        "symbol": "SONICUSDT",
+        "price": "0.2161000",
+        "time": 1749907796055
+    },
+    {
+        "symbol": "SKYAIUSDT",
+        "price": "0.0317600",
+        "time": 1749907794190
+    },
+    {
+        "symbol": "ADAUSDC",
+        "price": "0.636100",
+        "time": 1749907797077
+    },
+    {
+        "symbol": "REDUSDT",
+        "price": "0.3006000",
+        "time": 1749907796971
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "price": "9.662000",
+        "time": 1749907795861
+    },
+    {
+        "symbol": "BANDUSDT",
+        "price": "0.6279",
+        "time": 1749907795721
+    },
+    {
+        "symbol": "1000XECUSDT",
+        "price": "0.02086",
+        "time": 1749907786353
+    },
+    {
+        "symbol": "PHBUSDT",
+        "price": "0.4580000",
+        "time": 1749907778487
+    },
+    {
+        "symbol": "PROMPTUSDT",
+        "price": "0.1628000",
+        "time": 1749907792632
+    },
+    {
+        "symbol": "BLURUSDT",
+        "price": "0.0804300",
+        "time": 1749907793850
+    },
+    {
+        "symbol": "MYROUSDT",
+        "price": "0.0201800",
+        "time": 1749907771799
+    },
+    {
+        "symbol": "NFPUSDT",
+        "price": "0.0630600",
+        "time": 1749907795502
+    },
+    {
+        "symbol": "XLMUSDT",
+        "price": "0.25930",
+        "time": 1749907792432
+    },
+    {
+        "symbol": "SUIUSDC",
+        "price": "3.003010",
+        "time": 1749907796468
+    },
+    {
+        "symbol": "BICOUSDT",
+        "price": "0.0939000",
+        "time": 1749907773465
+    },
+    {
+        "symbol": "IPUSDT",
+        "price": "3.656030",
+        "time": 1749907796485
+    },
+    {
+        "symbol": "QNTUSDT",
+        "price": "106.470000",
+        "time": 1749907797071
+    },
+    {
+        "symbol": "ICXUSDT",
+        "price": "0.1329",
+        "time": 1749907791153
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "price": "0.0209600",
+        "time": 1749907771832
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "price": "0.4204",
+        "time": 1749907796448
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "price": "14.001",
+        "time": 1749907792753
+    },
+    {
+        "symbol": "BIDUSDT",
+        "price": "0.0593800",
+        "time": 1749907796453
+    },
+    {
+        "symbol": "PUFFERUSDT",
+        "price": "0.1864800",
+        "time": 1749907797124
+    },
+    {
+        "symbol": "RSRUSDT",
+        "price": "0.006339",
+        "time": 1749907791537
+    },
+    {
+        "symbol": "WCTUSDT",
+        "price": "0.3891000",
+        "time": 1749907796071
+    },
+    {
+        "symbol": "JSTUSDT",
+        "price": "0.0323890",
+        "time": 1749907794717
+    },
+    {
+        "symbol": "NEARUSDC",
+        "price": "2.2400",
+        "time": 1749907796864
+    },
+    {
+        "symbol": "SUIUSDT",
+        "price": "3.001400",
+        "time": 1749907795953
+    },
+    {
+        "symbol": "KAITOUSDC",
+        "price": "1.441000",
+        "time": 1749907796455
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "price": "0.003502",
+        "time": 1749907783274
+    },
+    {
+        "symbol": "GRIFFAINUSDT",
+        "price": "0.0433100",
+        "time": 1749907796539
+    },
+    {
+        "symbol": "TRXUSDT",
+        "price": "0.26926",
+        "time": 1749907796325
+    },
+    {
+        "symbol": "TWTUSDT",
+        "price": "0.781300",
+        "time": 1749907771826
+    },
+    {
+        "symbol": "VANRYUSDT",
+        "price": "0.0301100",
+        "time": 1749907796460
+    },
+    {
+        "symbol": "HOTUSDT",
+        "price": "0.000906",
+        "time": 1749907795853
+    },
+    {
+        "symbol": "PHAUSDT",
+        "price": "0.1072400",
+        "time": 1749907797063
+    },
+    {
+        "symbol": "PORTALUSDT",
+        "price": "0.0371900",
+        "time": 1749907775326
+    },
+    {
+        "symbol": "HOMEUSDT",
+        "price": "0.0288380",
+        "time": 1749907796653
+    },
+    {
+        "symbol": "ETHUSDT",
+        "price": "2537.27",
+        "time": 1749907797148
+    },
+    {
+        "symbol": "REEFUSDT",
+        "price": "0.000880",
+        "time": 1737536426864
+    },
+    {
+        "symbol": "LUMIAUSDT",
+        "price": "0.2528000",
+        "time": 1749907779542
+    },
+    {
+        "symbol": "HYPERUSDT",
+        "price": "0.1139000",
+        "time": 1749907785074
+    },
+    {
+        "symbol": "DRIFTUSDT",
+        "price": "0.4543000",
+        "time": 1749907784396
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "price": "0.1955",
+        "time": 1749907791240
+    },
+    {
+        "symbol": "ORDIUSDT",
+        "price": "8.034000",
+        "time": 1749907797070
+    },
+    {
+        "symbol": "BOMEUSDC",
+        "price": "0.0016410",
+        "time": 1749907788550
+    },
+    {
+        "symbol": "RENDERUSDT",
+        "price": "3.4330000",
+        "time": 1749907797058
+    },
+    {
+        "symbol": "BERAUSDT",
+        "price": "2.062000",
+        "time": 1749907796289
+    },
+    {
+        "symbol": "COTIUSDT",
+        "price": "0.05206",
+        "time": 1749907796824
+    },
+    {
+        "symbol": "HIVEUSDT",
+        "price": "0.2207900",
+        "time": 1749907794597
+    },
+    {
+        "symbol": "KEYUSDT",
+        "price": "0.0025177",
+        "time": 1733216394800
+    },
+    {
+        "symbol": "MAVIAUSDT",
+        "price": "0.1761000",
+        "time": 1749907795367
+    },
+    {
+        "symbol": "ARKMUSDT",
+        "price": "0.4762000",
+        "time": 1749907797184
+    },
+    {
+        "symbol": "RONINUSDT",
+        "price": "0.496400",
+        "time": 1749907775446
+    },
+    {
+        "symbol": "USTCUSDT",
+        "price": "0.0128900",
+        "time": 1749907797244
+    },
+    {
+        "symbol": "BRUSDT",
+        "price": "0.0434700",
+        "time": 1749907778658
+    },
+    {
+        "symbol": "RIFUSDT",
+        "price": "0.0515600",
+        "time": 1749907773467
+    },
+    {
+        "symbol": "SYSUSDT",
+        "price": "0.0364600",
+        "time": 1749907776510
+    },
+    {
+        "symbol": "PIXELUSDT",
+        "price": "0.0384400",
+        "time": 1749907797068
+    },
+    {
+        "symbol": "USUALUSDT",
+        "price": "0.0978000",
+        "time": 1749907793496
+    },
+    {
+        "symbol": "ARBUSDC",
+        "price": "0.341300",
+        "time": 1749907782473
+    },
+    {
+        "symbol": "XRPUSDC",
+        "price": "2.1643",
+        "time": 1749907795687
+    },
+    {
+        "symbol": "TRUMPUSDT",
+        "price": "10.468000",
+        "time": 1749907797583
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "price": "0.524",
+        "time": 1749907793286
+    },
+    {
+        "symbol": "KERNELUSDT",
+        "price": "0.1188000",
+        "time": 1749907797341
+    },
+    {
+        "symbol": "MOVEUSDT",
+        "price": "0.1482000",
+        "time": 1749907790054
+    },
+    {
+        "symbol": "ENSUSDT",
+        "price": "20.350",
+        "time": 1749907791465
+    },
+    {
+        "symbol": "AIUSDT",
+        "price": "0.125430",
+        "time": 1749907785479
+    },
+    {
+        "symbol": "1000SATSUSDT",
+        "price": "0.0000415",
+        "time": 1749907788416
+    },
+    {
+        "symbol": "TONUSDT",
+        "price": "2.9478000",
+        "time": 1749907796373
+    },
+    {
+        "symbol": "PERPUSDT",
+        "price": "0.233000",
+        "time": 1749907797054
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "price": "0.708700",
+        "time": 1749907796426
+    },
+    {
+        "symbol": "SKLUSDT",
+        "price": "0.01946",
+        "time": 1749907755854
+    },
+    {
+        "symbol": "BATUSDT",
+        "price": "0.1268",
+        "time": 1749907796334
+    },
+    {
+        "symbol": "LTCUSDT",
+        "price": "86.41",
+        "time": 1749907792284
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "price": "1.730",
+        "time": 1730278827332
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "price": "0.177770",
+        "time": 1749907797141
+    },
+    {
+        "symbol": "RLCUSDT",
+        "price": "0.9641",
+        "time": 1749907785266
+    },
+    {
+        "symbol": "GRTUSDT",
+        "price": "0.08842",
+        "time": 1749907788988
+    },
+    {
+        "symbol": "RESOLVUSDT",
+        "price": "0.2641900",
+        "time": 1749907794677
+    },
+    {
+        "symbol": "CKBUSDT",
+        "price": "0.0037400",
+        "time": 1749907784028
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "price": "0.968500",
+        "time": 1749907796446
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "price": "1.3355",
+        "time": 1718096387784
+    },
+    {
+        "symbol": "DASHUSDT",
+        "price": "20.39",
+        "time": 1749907771661
+    },
+    {
+        "symbol": "TRBUSDT",
+        "price": "41.365",
+        "time": 1749907796479
+    },
+    {
+        "symbol": "PNUTUSDT",
+        "price": "0.2312900",
+        "time": 1749907796485
+    },
+    {
+        "symbol": "BONDUSDT",
+        "price": "1.069000",
+        "time": 1734339590868
+    },
+    {
+        "symbol": "FARTCOINUSDT",
+        "price": "1.2032000",
+        "time": 1749907795965
+    },
+    {
+        "symbol": "VELODROMEUSDT",
+        "price": "0.0491000",
+        "time": 1749907775309
+    },
+    {
+        "symbol": "JTOUSDT",
+        "price": "1.988300",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "IOUSDT",
+        "price": "0.6843000",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "ACHUSDT",
+        "price": "0.0190570",
+        "time": 1749907783546
+    },
+    {
+        "symbol": "UXLINKUSDT",
+        "price": "0.3515000",
+        "time": 1749907796822
+    },
+    {
+        "symbol": "HMSTRUSDT",
+        "price": "0.0009970",
+        "time": 1749907795303
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "price": "0.0473300",
+        "time": 1749907797078
+    },
+    {
+        "symbol": "NMRUSDT",
+        "price": "7.664000",
+        "time": 1749907786433
+    },
+    {
+        "symbol": "UNIUSDT",
+        "price": "7.3450",
+        "time": 1749907796387
+    },
+    {
+        "symbol": "TSTUSDT",
+        "price": "0.0456800",
+        "time": 1749907797350
+    },
+    {
+        "symbol": "KOMAUSDT",
+        "price": "0.0190200",
+        "time": 1749907784033
+    },
+    {
+        "symbol": "1000RATSUSDT",
+        "price": "0.0236200",
+        "time": 1749907790633
+    },
+    {
+        "symbol": "ORCAUSDT",
+        "price": "2.2550000",
+        "time": 1749907797820
+    },
+    {
+        "symbol": "LINKUSDT",
+        "price": "13.135",
+        "time": 1749907796759
+    },
+    {
+        "symbol": "1000BONKUSDC",
+        "price": "0.0149500",
+        "time": 1749907797073
+    },
+    {
+        "symbol": "CELRUSDT",
+        "price": "0.00755",
+        "time": 1749907780207
+    },
+    {
+        "symbol": "PARTIUSDT",
+        "price": "0.2452000",
+        "time": 1749907796215
+    },
+    {
+        "symbol": "BNBUSDT",
+        "price": "648.810",
+        "time": 1749907795967
+    },
+    {
+        "symbol": "NEARUSDT",
+        "price": "2.2400",
+        "time": 1749907797519
+    },
+    {
+        "symbol": "KSMUSDT",
+        "price": "14.939",
+        "time": 1749907794685
+    },
+    {
+        "symbol": "POWRUSDT",
+        "price": "0.1571000",
+        "time": 1749907751960
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "price": "277.400",
+        "time": 1749907794700
+    },
+    {
+        "symbol": "LTCUSDC",
+        "price": "86.47",
+        "time": 1749907773785
+    },
+    {
+        "symbol": "ETHFIUSDT",
+        "price": "1.0935000",
+        "time": 1749907797064
+    },
+    {
+        "symbol": "JELLYJELLYUSDT",
+        "price": "0.0293700",
+        "time": 1749907796373
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "price": "4.131",
+        "time": 1749907796104
+    },
+    {
+        "symbol": "XVGUSDT",
+        "price": "0.0052573",
+        "time": 1749907796461
+    },
+    {
+        "symbol": "XCNUSDT",
+        "price": "0.0133700",
+        "time": 1749907751722
+    },
+    {
+        "symbol": "1000CATUSDT",
+        "price": "0.0063250",
+        "time": 1749907796828
+    },
+    {
+        "symbol": "VVVUSDT",
+        "price": "3.197000",
+        "time": 1749907797062
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "price": "0.02196",
+        "time": 1749907787671
+    },
+    {
+        "symbol": "PYTHUSDT",
+        "price": "0.1071000",
+        "time": 1749907797060
+    },
+    {
+        "symbol": "WIFUSDT",
+        "price": "0.8542000",
+        "time": 1749907796414
+    },
+    {
+        "symbol": "ETHUSDT_250926",
+        "price": "2576.47",
+        "time": 1749907786129
+    },
+    {
+        "symbol": "USDCUSDT",
+        "price": "0.9989870",
+        "time": 1749907787081
+    },
+    {
+        "symbol": "MLNUSDT",
+        "price": "7.86400",
+        "time": 1749907784807
+    },
+    {
+        "symbol": "XTZUSDT",
+        "price": "0.571",
+        "time": 1749907756336
+    },
+    {
+        "symbol": "SYRUPUSDT",
+        "price": "0.4849000",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "price": "2.1820000",
+        "time": 1749907785008
+    },
+    {
+        "symbol": "CVCUSDT",
+        "price": "0.0952400",
+        "time": 1749907786430
+    },
+    {
+        "symbol": "IMXUSDT",
+        "price": "0.4634",
+        "time": 1749907797082
+    },
+    {
+        "symbol": "STGUSDT",
+        "price": "0.1699000",
+        "time": 1749907791372
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "price": "2.478000",
+        "time": 1749907790381
+    },
+    {
+        "symbol": "IPUSDC",
+        "price": "3.655380",
+        "time": 1749907759976
+    },
+    {
+        "symbol": "VIDTUSDT",
+        "price": "0.0029300",
+        "time": 1744621300188
+    },
+    {
+        "symbol": "DIAUSDT",
+        "price": "0.3860000",
+        "time": 1749907785524
+    },
+    {
+        "symbol": "LRCUSDT",
+        "price": "0.07960",
+        "time": 1749907774810
+    },
+    {
+        "symbol": "STOUSDT",
+        "price": "0.0763400",
+        "time": 1749907797471
+    },
+    {
+        "symbol": "POPCATUSDT",
+        "price": "0.3202000",
+        "time": 1749907796455
+    },
+    {
+        "symbol": "THETAUSDT",
+        "price": "0.7073",
+        "time": 1749907792196
+    },
+    {
+        "symbol": "BMTUSDT",
+        "price": "0.1151200",
+        "time": 1749907795286
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "price": "0.1247",
+        "time": 1729587579289
+    },
+    {
+        "symbol": "DYMUSDT",
+        "price": "0.265000",
+        "time": 1749907786560
+    },
+    {
+        "symbol": "ZENUSDT",
+        "price": "8.650",
+        "time": 1749907793504
     },
     {
         "symbol": "CVXUSDT",
@@ -2405,89 +1990,354 @@
         "time": 1715677215357
     },
     {
-        "symbol": "DEGOUSDT",
-        "price": "1.0220000",
-        "time": 1749823571024
+        "symbol": "1000PEPEUSDC",
+        "price": "0.0111436",
+        "time": 1749907796448
     },
     {
-        "symbol": "LUMIAUSDT",
-        "price": "0.2381000",
-        "time": 1749823565713
+        "symbol": "JUPUSDT",
+        "price": "0.4132000",
+        "time": 1749907796144
     },
     {
-        "symbol": "LPTUSDT",
-        "price": "6.861",
-        "time": 1749823564952
+        "symbol": "NULSUSDT",
+        "price": "0.0313000",
+        "time": 1744621276136
     },
     {
-        "symbol": "ETCUSDT",
-        "price": "16.314",
-        "time": 1749823564700
+        "symbol": "ETHUSDT_250627",
+        "price": "2542.28",
+        "time": 1749907773470
     },
     {
-        "symbol": "ETHWUSDT",
-        "price": "1.370900",
-        "time": 1749823562624
+        "symbol": "OBOLUSDT",
+        "price": "0.1153900",
+        "time": 1749907788335
     },
     {
-        "symbol": "VOXELUSDT",
-        "price": "0.0498800",
-        "time": 1749823565633
+        "symbol": "TLMUSDT",
+        "price": "0.0044570",
+        "time": 1749907790867
     },
     {
-        "symbol": "VANAUSDT",
-        "price": "5.226000",
-        "time": 1749823567810
+        "symbol": "CRVUSDT",
+        "price": "0.602",
+        "time": 1749907775217
     },
     {
-        "symbol": "ATOMUSDT",
-        "price": "4.064",
-        "time": 1749823569574
+        "symbol": "AKTUSDT",
+        "price": "1.2260000",
+        "time": 1749907786002
     },
     {
-        "symbol": "POLUSDT",
-        "price": "0.1994200",
-        "time": 1749823566236
+        "symbol": "SAGAUSDT",
+        "price": "0.2553000",
+        "time": 1749907795614
     },
     {
-        "symbol": "VELODROMEUSDT",
-        "price": "0.0482500",
-        "time": 1749823563822
+        "symbol": "PROMUSDT",
+        "price": "5.3880000",
+        "time": 1749907797577
     },
     {
-        "symbol": "RAYSOLUSDT",
-        "price": "2.0779000",
-        "time": 1749823569912
+        "symbol": "MEUSDT",
+        "price": "0.8092000",
+        "time": 1749907796130
     },
     {
-        "symbol": "TRUMPUSDC",
-        "price": "9.877000",
-        "time": 1749823565738
+        "symbol": "C98USDT",
+        "price": "0.0490",
+        "time": 1749907781634
     },
     {
-        "symbol": "MERLUSDT",
-        "price": "0.0933900",
-        "time": 1749823565660
+        "symbol": "DEXEUSDT",
+        "price": "8.875000",
+        "time": 1749907795640
+    },
+    {
+        "symbol": "PENDLEUSDT",
+        "price": "3.7491000",
+        "time": 1749907796450
+    },
+    {
+        "symbol": "LAUSDT",
+        "price": "0.845000",
+        "time": 1749907794975
+    },
+    {
+        "symbol": "MASKUSDT",
+        "price": "1.4114",
+        "time": 1749907794016
+    },
+    {
+        "symbol": "LINKUSDC",
+        "price": "13.143",
+        "time": 1749907773563
+    },
+    {
+        "symbol": "CRVUSDC",
+        "price": "0.6026000",
+        "time": 1749907797068
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "price": "0.02209",
+        "time": 1749907783299
+    },
+    {
+        "symbol": "FLMUSDT",
+        "price": "0.0342",
+        "time": 1749907797050
+    },
+    {
+        "symbol": "RVNUSDT",
+        "price": "0.01960",
+        "time": 1749907797031
+    },
+    {
+        "symbol": "FORMUSDT",
+        "price": "2.657900",
+        "time": 1749907779452
+    },
+    {
+        "symbol": "MINAUSDT",
+        "price": "0.1837000",
+        "time": 1749907783912
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "price": "5.870000",
+        "time": 1749907796563
+    },
+    {
+        "symbol": "ILVUSDT",
+        "price": "12.07400",
+        "time": 1749907790433
+    },
+    {
+        "symbol": "BNXUSDT",
+        "price": "2.000000",
+        "time": 1742202095139
+    },
+    {
+        "symbol": "FETUSDT",
+        "price": "0.6726000",
+        "time": 1749907796496
+    },
+    {
+        "symbol": "BEAMXUSDT",
+        "price": "0.0058580",
+        "time": 1749907796448
+    },
+    {
+        "symbol": "OMGUSDT",
+        "price": "0.2910",
+        "time": 1738313994383
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "price": "0.1656000",
+        "time": 1749907777682
     },
     {
         "symbol": "QTUMUSDT",
-        "price": "1.999",
-        "time": 1749823564199
+        "price": "2.037",
+        "time": 1749907787889
     },
     {
-        "symbol": "TNSRUSDT",
-        "price": "0.1093000",
-        "time": 1749823569476
+        "symbol": "YGGUSDT",
+        "price": "0.1698000",
+        "time": 1749907790321
+    },
+    {
+        "symbol": "ENAUSDC",
+        "price": "0.2976000",
+        "time": 1749907796469
+    },
+    {
+        "symbol": "ZEREBROUSDT",
+        "price": "0.0287200",
+        "time": 1749907796323
+    },
+    {
+        "symbol": "MORPHOUSDT",
+        "price": "1.4241000",
+        "time": 1749907785534
+    },
+    {
+        "symbol": "PONKEUSDT",
+        "price": "0.1274300",
+        "time": 1749907773514
+    },
+    {
+        "symbol": "ARKUSDT",
+        "price": "0.3626000",
+        "time": 1749907787214
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "price": "0.1357300",
+        "time": 1749907791017
+    },
+    {
+        "symbol": "FXSUSDT",
+        "price": "2.680900",
+        "time": 1749907797061
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "price": "0.6401000",
+        "time": 1749907796460
+    },
+    {
+        "symbol": "BROCCOLI714USDT",
+        "price": "0.0226200",
+        "time": 1749907797548
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "price": "0.0706300",
+        "time": 1749907777018
+    },
+    {
+        "symbol": "KAITOUSDT",
+        "price": "1.440400",
+        "time": 1749907794921
+    },
+    {
+        "symbol": "PUMPUSDT",
+        "price": "0.0471000",
+        "time": 1749805197819
+    },
+    {
+        "symbol": "BDXNUSDT",
+        "price": "0.0350800",
+        "time": 1749907795248
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "price": "0.2066000",
+        "time": 1749907771771
     },
     {
         "symbol": "LISTAUSDT",
-        "price": "0.2172000",
-        "time": 1749823568408
+        "price": "0.2018000",
+        "time": 1749907796439
     },
     {
-        "symbol": "TRUMPUSDT",
-        "price": "9.869000",
-        "time": 1749823569790
+        "symbol": "DODOXUSDT",
+        "price": "0.0401250",
+        "time": 1749907786105
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "price": "0.1711",
+        "time": 1749907789998
+    },
+    {
+        "symbol": "VICUSDT",
+        "price": "0.1609000",
+        "time": 1749907784386
+    },
+    {
+        "symbol": "MEMEFIUSDT",
+        "price": "0.0011760",
+        "time": 1749907792135
+    },
+    {
+        "symbol": "SAFEUSDT",
+        "price": "0.4321000",
+        "time": 1749907771848
+    },
+    {
+        "symbol": "ZETAUSDT",
+        "price": "0.198800",
+        "time": 1749907797058
+    },
+    {
+        "symbol": "ALTUSDT",
+        "price": "0.0252800",
+        "time": 1749907771919
+    },
+    {
+        "symbol": "DEGENUSDT",
+        "price": "0.0037950",
+        "time": 1749907796449
+    },
+    {
+        "symbol": "MEMEUSDT",
+        "price": "0.0016910",
+        "time": 1749907796254
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "price": "0.02579",
+        "time": 1749907792447
+    },
+    {
+        "symbol": "FILUSDC",
+        "price": "2.4330000",
+        "time": 1749907785478
+    },
+    {
+        "symbol": "BTCUSDT_250926",
+        "price": "106487.2",
+        "time": 1749907769813
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "price": "0.70700",
+        "time": 1719306047639
+    },
+    {
+        "symbol": "HBARUSDT",
+        "price": "0.15858",
+        "time": 1749907790721
+    },
+    {
+        "symbol": "1MBABYDOGEUSDT",
+        "price": "0.0012817",
+        "time": 1749907772063
+    },
+    {
+        "symbol": "XAIUSDT",
+        "price": "0.0585100",
+        "time": 1749907797063
+    },
+    {
+        "symbol": "THEUSDT",
+        "price": "0.2433000",
+        "time": 1749907792914
+    },
+    {
+        "symbol": "SSVUSDT",
+        "price": "9.256000",
+        "time": 1749907796451
+    },
+    {
+        "symbol": "DARUSDT",
+        "price": "0.1425",
+        "time": 1735203629798
+    },
+    {
+        "symbol": "STXUSDT",
+        "price": "0.6368000",
+        "time": 1749907795607
+    },
+    {
+        "symbol": "SHELLUSDT",
+        "price": "0.1383000",
+        "time": 1749907782059
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "price": "0.6264",
+        "time": 1749907794261
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "price": "1.408200",
+        "time": 1749907772029
     },
     {
         "symbol": "BADGERUSDT",
@@ -2495,53 +2345,203 @@
         "time": 1744621242345
     },
     {
-        "symbol": "KAVAUSDT",
-        "price": "0.4247",
-        "time": 1749823566647
+        "symbol": "SOLUSDT",
+        "price": "145.4600",
+        "time": 1749907796494
     },
     {
-        "symbol": "IPUSDT",
-        "price": "3.497150",
-        "time": 1749823570832
+        "symbol": "BLZUSDT",
+        "price": "0.06836",
+        "time": 1734944391108
     },
     {
-        "symbol": "ALGOUSDT",
-        "price": "0.1756",
-        "time": 1749823564392
+        "symbol": "HIPPOUSDT",
+        "price": "0.0017240",
+        "time": 1749907771607
     },
     {
-        "symbol": "PHBUSDT",
-        "price": "0.4372000",
-        "time": 1749823568113
+        "symbol": "LUNA2USDT",
+        "price": "0.1655000",
+        "time": 1749907784274
     },
     {
-        "symbol": "TIAUSDT",
-        "price": "1.7458000",
-        "time": 1749823570238
+        "symbol": "OXTUSDT",
+        "price": "0.0553600",
+        "time": 1749907783823
     },
     {
-        "symbol": "COMPUSDT",
-        "price": "52.14",
-        "time": 1749823570417
+        "symbol": "BOMEUSDT",
+        "price": "0.0016410",
+        "time": 1749907794350
     },
     {
-        "symbol": "NEIROETHUSDT",
-        "price": "0.0856600",
-        "time": 1749823571391
+        "symbol": "TOKENUSDT",
+        "price": "0.0150700",
+        "time": 1749907771564
     },
     {
-        "symbol": "ARUSDT",
-        "price": "5.979",
-        "time": 1749823568797
+        "symbol": "AGIXUSDT",
+        "price": "0.7009000",
+        "time": 1719306034000
     },
     {
-        "symbol": "SANTOSUSDT",
-        "price": "2.1580000",
-        "time": 1749823569157
+        "symbol": "LEVERUSDT",
+        "price": "0.0004379",
+        "time": 1749907783827
     },
     {
-        "symbol": "SOLVUSDT",
-        "price": "0.0463000",
-        "time": 1749823569478
+        "symbol": "DENTUSDT",
+        "price": "0.000628",
+        "time": 1749907785147
+    },
+    {
+        "symbol": "GMXUSDT",
+        "price": "14.853000",
+        "time": 1749907789237
+    },
+    {
+        "symbol": "MILKUSDT",
+        "price": "0.0590800",
+        "time": 1749907736350
+    },
+    {
+        "symbol": "HFTUSDT",
+        "price": "0.0535700",
+        "time": 1749907797080
+    },
+    {
+        "symbol": "DFUSDT",
+        "price": "0.0403800",
+        "time": 1749907778528
+    },
+    {
+        "symbol": "IDUSDT",
+        "price": "0.1660600",
+        "time": 1749907794236
+    },
+    {
+        "symbol": "SIGNUSDT",
+        "price": "0.0666500",
+        "time": 1749907794865
+    },
+    {
+        "symbol": "ENAUSDT",
+        "price": "0.2974000",
+        "time": 1749907796470
+    },
+    {
+        "symbol": "SLERFUSDT",
+        "price": "0.0703000",
+        "time": 1749907751028
+    },
+    {
+        "symbol": "AEVOUSDT",
+        "price": "0.0885000",
+        "time": 1749907776709
+    },
+    {
+        "symbol": "SCRUSDT",
+        "price": "0.2730000",
+        "time": 1749907773485
+    },
+    {
+        "symbol": "TUSDT",
+        "price": "0.0143100",
+        "time": 1749907786194
+    },
+    {
+        "symbol": "NEOUSDT",
+        "price": "5.636",
+        "time": 1749907796612
+    },
+    {
+        "symbol": "PIPPINUSDT",
+        "price": "0.0171500",
+        "time": 1749907797980
+    },
+    {
+        "symbol": "NILUSDT",
+        "price": "0.340100",
+        "time": 1749907797061
+    },
+    {
+        "symbol": "EPTUSDT",
+        "price": "0.0059440",
+        "time": 1749907792999
+    },
+    {
+        "symbol": "1000SHIBUSDC",
+        "price": "0.0121950",
+        "time": 1749907785493
+    },
+    {
+        "symbol": "REIUSDT",
+        "price": "0.0167500",
+        "time": 1749907795933
+    },
+    {
+        "symbol": "TAOUSDT",
+        "price": "368.98",
+        "time": 1749907796444
+    },
+    {
+        "symbol": "DOGSUSDT",
+        "price": "0.0001343",
+        "time": 1749907796918
+    },
+    {
+        "symbol": "BIGTIMEUSDT",
+        "price": "0.0560000",
+        "time": 1749907795813
+    },
+    {
+        "symbol": "ALPACAUSDT",
+        "price": "1.1900000",
+        "time": 1746003726020
+    },
+    {
+        "symbol": "AEROUSDT",
+        "price": "0.7383000",
+        "time": 1749907796458
+    },
+    {
+        "symbol": "BBUSDT",
+        "price": "0.1017600",
+        "time": 1749907795240
+    },
+    {
+        "symbol": "CHZUSDT",
+        "price": "0.03668",
+        "time": 1749907782174
+    },
+    {
+        "symbol": "ACXUSDT",
+        "price": "0.1655000",
+        "time": 1749907797718
+    },
+    {
+        "symbol": "BROCCOLIF3BUSDT",
+        "price": "0.0103110",
+        "time": 1749907788388
+    },
+    {
+        "symbol": "ZROUSDT",
+        "price": "2.0304000",
+        "time": 1749907796543
+    },
+    {
+        "symbol": "SUSDT",
+        "price": "0.3429000",
+        "time": 1749907780404
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "price": "0.0528400",
+        "time": 1749907786095
+    },
+    {
+        "symbol": "BUSDT",
+        "price": "0.3425500",
+        "time": 1749907793119
     }
 ]

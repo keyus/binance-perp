@@ -1,19 +1,18 @@
-import utils.tools as utils
-import utils.tg as tg_bot
-
+import tools
+import tg
 
     
 def perp():
-    utils.tiker()
-    utils.klines()
-    utils.read_klines()
+    # tools.tiker()
+    # tools.klines()
+    tools.read_klines()
     
 def send_message():
-    tg_bot.run()
+    tg.run()
     
 def main():
     perp()
-    send_message()
+    # send_message()
 
 if __name__ == "__main__":
     main()

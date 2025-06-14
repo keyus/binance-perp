@@ -1,72 +1,47 @@
 [
     {
-        "symbol": "MOODENG",
-        "current_price": 0.21106,
-        "diff_ratio": 6.05,
-        "low_price": 0.03489,
-        "high_price": 0.34497,
-        "desc": "近2月,涨6.05倍以上",
+        "symbol": "HOME",
+        "current_price": 0.028838,
+        "diff_ratio": 0.57,
+        "low_price": 0.018363,
+        "high_price": 0.042688,
         "direction": "空",
-        "time": "0   2025-05-01\n1   2025-06-01"
+        "time": "0   2025-06-10\n1   2025-06-11\n2   2025-06-12\n3   2025-06-13\n4   2025-06-14"
     },
     {
-        "symbol": "BROCCOLIF3B",
-        "current_price": 0.010995,
-        "diff_ratio": -0.71,
-        "low_price": 0.00946,
-        "high_price": 0.03829,
-        "desc": "近2月，超跌>71.0%",
-        "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
+        "symbol": "RESOLV",
+        "current_price": 0.26419,
+        "diff_ratio": 0.53,
+        "low_price": 0.17264,
+        "high_price": 0.412,
+        "direction": "空",
+        "time": "0   2025-06-10\n1   2025-06-11\n2   2025-06-12\n3   2025-06-13\n4   2025-06-14"
     },
     {
-        "symbol": "AIOT",
-        "current_price": 0.14266,
-        "diff_ratio": -0.71,
-        "low_price": 0.12,
-        "high_price": 0.4935,
-        "desc": "近2月，超跌>71.0%",
-        "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
+        "symbol": "JELLYJELLY",
+        "current_price": 0.02937,
+        "diff_ratio": 0.48,
+        "low_price": 0.01979,
+        "high_price": 0.03437,
+        "direction": "空",
+        "time": "0   2025-06-08\n1   2025-06-09\n2   2025-06-10\n3   2025-06-11\n4   2025-06-12\n5   2025-06-13\n6   2025-06-14"
     },
     {
-        "symbol": "HIFI",
-        "current_price": 0.0812,
-        "diff_ratio": -0.75,
-        "low_price": 0.0718,
-        "high_price": 0.325,
-        "desc": "近2月，超跌>75.0%",
-        "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
+        "symbol": "AERO",
+        "current_price": 0.7383,
+        "diff_ratio": 0.48,
+        "low_price": 0.4989,
+        "high_price": 0.7782,
+        "direction": "空",
+        "time": "0   2025-06-08\n1   2025-06-09\n2   2025-06-10\n3   2025-06-11\n4   2025-06-12\n5   2025-06-13\n6   2025-06-14"
     },
     {
-        "symbol": "LAYER",
-        "current_price": 0.7881,
-        "diff_ratio": -0.77,
-        "low_price": 0.7043,
-        "high_price": 3.4187,
-        "desc": "近2月，超跌>77.0%",
+        "symbol": "HMSTR",
+        "current_price": 0.000997,
+        "diff_ratio": -0.62,
+        "low_price": 0.000865,
+        "high_price": 0.002607,
         "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
-    },
-    {
-        "symbol": "MEMEFI",
-        "current_price": 0.001344,
-        "diff_ratio": -0.81,
-        "low_price": 0.001191,
-        "high_price": 0.007189,
-        "desc": "近2月，超跌>81.0%",
-        "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
-    },
-    {
-        "symbol": "SXT",
-        "current_price": 0.09817,
-        "diff_ratio": -0.87,
-        "low_price": 0.0874,
-        "high_price": 0.7732,
-        "desc": "近2月，超跌>87.0%",
-        "direction": "多",
-        "time": "0   2025-05-01\n1   2025-06-01"
+        "time": "0   2025-06-08\n1   2025-06-09\n2   2025-06-10\n3   2025-06-11\n4   2025-06-12\n5   2025-06-13\n6   2025-06-14"
     }
 ]
