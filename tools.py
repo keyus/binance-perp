@@ -5,21 +5,26 @@ import pandas as pd
 import os
 import shutil
 
+
+# Binance Futures 
 base_url = "https://fapi.binance.com"
-interval = "1d"
+# k线周期
+interval = "1d"     
+# 周期中文        
 interval_type = '天'
-limit = 7                                   # 获取最近25周的K线数据
-# 超涨比例限制 涨幅大于5倍
-high_ratio = 0.45
-# 超跌比例限制 跌幅小于50%
-low_ratio = 0.6
+# k线数量 7根k线
+limit = 14                                
+# 超涨比例限制 涨幅大于x倍
+high_ratio = 1
+# 超跌比例限制 跌幅大于x.
+low_ratio = 0.65
 
 
 # 获取交易对信息
 def tiker():
     #如果存在tiker.json文件，则删除
     if os.path.exists("./data/tiker.json"):
-        print("删除旧的tiker.json文件...")
+        print("delete tiker json...")
         os.remove("./data/tiker.json")
         
     print("获取交易对信息,请稍等...")
@@ -34,7 +39,7 @@ def tiker():
         json.dump(tiker, f, indent=4)
 
 
-# 获取K线数据月线
+# 获取K线数据
 def klines():
     try:
         with open("./data/tiker.json", "r") as f:
@@ -45,11 +50,11 @@ def klines():
 
     # 强制删除旧的K线数据文件夹，创建新的文件夹
     if os.path.exists("./data/klines"):
-        print("删除旧的K线数据文件夹...")
+        print("delete klines files")
         shutil.rmtree("./data/klines")
         os.makedirs("./data/klines", exist_ok=True)
 
-    print("抓取k线数据,请稍等...")
+    print("抓取k线...")
 
     def fetch_klines(
         symbol,
@@ -62,7 +67,9 @@ def klines():
                 print(f"Error fetching {symbol} klines: {result.status_code}")
                 return
             klines = result.json()
-            
+            if klines:
+                klines = klines[1:]  # 去掉第一条数据，防止计入新币第一天的数据
+                
             with open(f"./data/klines/{symbol}.json", "w") as f:
                 json.dump(klines, f, indent=4)
         except Exception as e:
@@ -75,9 +82,9 @@ def klines():
             executor.submit(fetch_klines, symbol)
 
 
-# 读取交易对月线json文件
+# 读取k线数据并分析超跌和超涨交易对
 def read_klines():
-    print("开始读取交易对月线数据,分析超跌和超涨交易对")
+    print("分析中...")
     try:
         with open("./data/tiker.json", "r") as f:
             tiker = json.load(f)

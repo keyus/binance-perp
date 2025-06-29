@@ -2,7 +2,6 @@
 
 import requests
 import random
-import os
 import json
 from tools import limit, interval_type
 
